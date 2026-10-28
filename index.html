@@ -530,11 +530,11 @@ body.cc-list-mode .list-top {
   function caseDetails(c){
     var meta=caseMetaFor(c), title=cleanTitle(c), raw=String(c&&(c.title||c.name)||'');
     if(meta){
-      return {title:title,year:String(meta.year||''),type:String(meta.type||''),place:String(meta.place||''),href:String(meta.link||'')};
+      return {title:title,year:String(meta.year||''),type:String(meta.type||''),place:String((c&&c.geoPlace)||meta.place||''),href:String(meta.link||'')};
     }
     var year=(c&&c.year)||((raw.match(/\b(19|20)\d{2}\b/)||[])[0]) || '';
     var type=(c&&c.type)||(/vermissing|verdwijning/i.test(raw)?'Vermissing':(/onbekende|ongeïdentificeerde|ongeidentificeerde/i.test(raw)?'Onbekende doden':(/moord|dood/i.test(raw)?'Moord':'Overige')));
-    var place=(c&&(c.place||c.location||c.city)) || '';
+    var place=(c&&c.geoPlace)|| (c&&(c.place||c.location||c.city)) || '';
     var href=(c&&(c.link||c.url)) || '';
     return {title:title,year:String(year||''),type:String(type||''),place:String(place||''),href:String(href||'')};
   }
