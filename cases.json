@@ -2894,13 +2894,13 @@
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "pieter-vos-en-jaap-zillig-2011-geen-sitedossier"
   },
-  {
-    "lat": 51.830525,
-    "lng": 4.882519,
-    "title": "De moord op Johan de Waal 2012 (geen sitedossier)",
-    "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
-    "id": "johan-de-waal-2012-geen-sitedossier"
-  },
+{
+  "lat": 51.830525,
+  "lng": 4.882519,
+  "title": "De moord op Johan de Waal 2012",
+  "link": "https://www.coldcasezaken.nl/johan-de-waal",
+  "id": "johan-de-waal"
+}
   {
     "lat": 51.235308,
     "lng": 3.826232,
