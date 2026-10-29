@@ -529,13 +529,11 @@ body.cc-list-mode .list-top {
   function cleanTitle(c){return String(c&&(c.title||c.name)||'Onbekende cold case').replace(/\s*\(geen sitedossier\)\s*/ig,'').replace(/\s+(19|20)\d{2}\s*$/i,'').trim()}
   function caseDetails(c){
     var meta=caseMetaFor(c), title=cleanTitle(c), raw=String(c&&(c.title||c.name)||'');
-    if(meta){
-      return {title:title,year:String(meta.year||''),type:String(meta.type||''),place:String((c&&c.geoPlace)||meta.place||''),href:String(meta.link||'')};
-    }
-    var year=(c&&c.year)||((raw.match(/\b(19|20)\d{2}\b/)||[])[0]) || '';
-    var type=(c&&c.type)||(/vermissing|verdwijning/i.test(raw)?'Vermissing':(/onbekende|ongeïdentificeerde|ongeidentificeerde/i.test(raw)?'Onbekende doden':(/moord|dood/i.test(raw)?'Moord':'Overige')));
-    var place=(c&&c.geoPlace)|| (c&&(c.place||c.location||c.city)) || '';
-    var href=(c&&(c.link||c.url)) || '';
+    /* cases.json is the source of truth for category, year and place where supplied. */
+    var year=(c&&c.year)||((meta&&meta.year)||'')||((raw.match(/\b(19|20)\d{2}\b/)||[])[0])||'';
+    var type=(c&&(c.category||c.type))||(meta&&meta.type)||(/vermissing|verdwijning/i.test(raw)?'Vermissing':(/onbekende|ongeïdentificeerde|ongeidentificeerde/i.test(raw)?'Onbekende doden':(/moord|dood/i.test(raw)?'Moord':'Overige')));
+    var place=(c&&c.geoPlace)||(meta&&meta.place)||(c&&(c.place||c.location||c.city))||'';
+    var href=(c&&(c.link||c.url))||(meta&&meta.link)||'';
     return {title:title,year:String(year||''),type:String(type||''),place:String(place||''),href:String(href||'')};
   }
   function typeKey(type){return String(type||'').toLowerCase().replace(/[^a-z]/g,'').replace('onbekendedoden','onbekendedoden')}
