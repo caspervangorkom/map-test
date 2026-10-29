@@ -799,12 +799,12 @@
   {
     "lat": 51.95724,
     "lng": 6.214027,
-    "title": "Suicide onbekende man",
+    "title": "Onbekende dode man",
     "link": "https://www.coldcasezaken.nl/onbekende-man-treinspoor-didam",
     "id": "suicide-onbekende-man",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/9vu1ix/image-64.png?enable-io=true&enable=upscale&crop=1.7009%3A1&width=800",
-    "geoPlace": "Wehl",
-    "category": "Overige"
+    "geoPlace": "Didam",
+    "category": "Onbekende doden"
   },
   {
     "lat": 52.195579,
