@@ -5,7 +5,8 @@
     "title": "De moord op Ingrid Hakkert",
     "link": "https://www.coldcasezaken.nl/ingrid-hakkert",
     "id": "ingrid-hakkert",
-    "geoPlace": "Den Dungen"
+    "geoPlace": "Den Dungen",
+    "category": "Moord"
   },
   {
     "lat": 51.938211,
@@ -14,7 +15,8 @@
     "link": "https://www.coldcasezaken.nl/geertje-vliegenthart-roest",
     "id": "verdwijning-van-geertje-vliegenthart",
     "geoPlace": "Rotterdam",
-    "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/schermopname_19-10-2025_19117_www-bing-com-standard-c6qd9g.jpg"
+    "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/schermopname_19-10-2025_19117_www-bing-com-standard-c6qd9g.jpg",
+    "category": "Vermissing"
   },
   {
     "lat": 52.090298,
@@ -23,7 +25,8 @@
     "link": "https://www.coldcasezaken.nl/hanno-van-mil",
     "id": "verdwijning-hanno-van-mil",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/large-vecteezy_a-dark-room-with-a-light-at-the-top_30648142_large-high.jpg?enable-io=true&enable=upscale&crop=0.772%3A1&width=800",
-    "geoPlace": "Woudenberg"
+    "geoPlace": "Woudenberg",
+    "category": "Vermissing"
   },
   {
     "lat": 51.499324,
@@ -32,7 +35,9 @@
     "link": "https://www.coldcasezaken.nl/jan-schoenmakers",
     "id": "jan-schoenmakers",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-237.jpg",
-    "geoPlace": "Oirschot"
+    "geoPlace": "Oirschot",
+    "category": "Moord",
+    "year": 1967
   },
   {
     "lat": 53.199036,
@@ -41,7 +46,9 @@
     "link": "https://www.coldcasezaken.nl/hinke-van-der-velde",
     "id": "hinke-van-der-velde",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-7.png",
-    "geoPlace": "Leeuwarden"
+    "geoPlace": "Leeuwarden",
+    "category": "Moord",
+    "year": 1970
   },
   {
     "lat": 52.400926,
@@ -50,7 +57,9 @@
     "link": "https://www.coldcasezaken.nl/alwin-sterk",
     "id": "alwin-sterk",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-111.jpg",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Vermissing",
+    "year": 1972
   },
   {
     "lat": 50.963459,
@@ -59,7 +68,9 @@
     "link": "https://www.coldcasezaken.nl/marjo-winkens",
     "id": "marjo-winkens-1975-exacte-vermissingslocatie-onbekend",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/marjo_winkens3-high.webp?enable-io=true&enable=upscale&crop=0.7849%3A1&width=800",
-    "geoPlace": "Geleen"
+    "geoPlace": "Geleen",
+    "category": "Vermissing",
+    "year": 1975
   },
   {
     "lat": 52.36453,
@@ -68,7 +79,9 @@
     "link": "https://www.coldcasezaken.nl/angela-mangot",
     "id": "angela-mangot",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/ewkiyc/1-232.jpg?enable-io=true&enable=upscale&crop=1.2196%3A1&width=800",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 1970
   },
   {
     "lat": 52.054126,
@@ -77,7 +90,9 @@
     "link": "https://www.coldcasezaken.nl/ongeidentificeerde-doden/jane-doe-maarsbergen-heulmeisje",
     "id": "het-onbekende-heulmeisje",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/nl01-main-photo-1-high-xh8g3j-1-high.jpg?enable-io=true&enable=upscale&crop=0.6118%3A1&width=800",
-    "geoPlace": "Maarsbergen"
+    "geoPlace": "Maarsbergen",
+    "category": "Overige",
+    "year": 1976
   },
   {
     "lat": 52.374718,
@@ -86,7 +101,9 @@
     "link": "https://www.coldcasezaken.nl/gerhardus-goldschmeding",
     "id": "gerhardus-goldschmeding",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/494358440_1620317942000575_6482884630819670994_n-high.png?enable-io=true&enable=upscale&crop=0.7232%3A1%2Coffset-y100&width=800",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 1976
   },
   {
     "lat": 51.657248,
@@ -95,7 +112,9 @@
     "link": "https://www.coldcasezaken.nl/riky-bartels",
     "id": "riky-bartels",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/iyoufq/bartels_riky_1960-1977.jpg?enable-io=true&enable=upscale&crop=1.3551%3A1&width=800",
-    "geoPlace": "Wanroij"
+    "geoPlace": "Wanroij",
+    "category": "Moord",
+    "year": 1977
   },
   {
     "lat": 52.376807,
@@ -104,7 +123,9 @@
     "link": "https://www.coldcasezaken.nl/willemijntje-van-der-meer",
     "id": "willemijntje-van-der-meer",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-239.jpg",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Vermissing",
+    "year": 1978
   },
   {
     "lat": 52.160489,
@@ -113,7 +134,9 @@
     "link": "https://www.coldcasezaken.nl/levie-van-amerongen",
     "id": "levie-louis-van-amerongen",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/2-65.jpg",
-    "geoPlace": "Leiden"
+    "geoPlace": "Leiden",
+    "category": "Moord",
+    "year": 1978
   },
   {
     "lat": 52.221188,
@@ -122,7 +145,9 @@
     "link": "https://www.coldcasezaken.nl/wendy-hart",
     "id": "wendy-hart",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/ctexgj/11-1.jpeg?enable-io=true&enable=upscale&crop=0.8867%3A1%2Coffset-y0&width=800",
-    "geoPlace": "Apeldoorn"
+    "geoPlace": "Apeldoorn",
+    "category": "Moord",
+    "year": 1981
   },
   {
     "lat": 51.921858,
@@ -131,7 +156,9 @@
     "link": "https://www.coldcasezaken.nl/petra-van-den-berg",
     "id": "petra-van-den-berg",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-236.jpg",
-    "geoPlace": "Rotterdam"
+    "geoPlace": "Rotterdam",
+    "category": "Moord",
+    "year": 1982
   },
   {
     "lat": 52.371674,
@@ -140,7 +167,9 @@
     "link": "https://www.coldcasezaken.nl/het-kelderlijk",
     "id": "het-onbekende-kelderlijk",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-74.png",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Overige",
+    "year": 1982
   },
   {
     "lat": 50.968009,
@@ -149,7 +178,9 @@
     "link": "https://www.coldcasezaken.nl/riet-de-vries",
     "id": "riet-de-vries",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/riet-smit-de-vries-high.png?enable-io=true&enable=upscale&crop=0.836%3A1&width=800",
-    "geoPlace": "Geleen"
+    "geoPlace": "Geleen",
+    "category": "Vermissing",
+    "year": 1982
   },
   {
     "lat": 52.488178,
@@ -158,7 +189,9 @@
     "link": "https://www.coldcasezaken.nl/petertje-oort",
     "id": "peter-oort",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1.webp",
-    "geoPlace": "Edam"
+    "geoPlace": "Edam",
+    "category": "Moord",
+    "year": 1982
   },
   {
     "lat": 52.388154,
@@ -167,7 +200,9 @@
     "link": "https://www.coldcasezaken.nl/fred-halsema",
     "id": "fred-halsema",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/438112454_626925869642025_5612072214032949810_n-standard.png",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 1983
   },
   {
     "lat": 52.454331,
@@ -176,7 +211,9 @@
     "link": "https://www.coldcasezaken.nl/eefke-wolf",
     "id": "eefke-wolf",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/fii2k1/3-27.jpg?enable-io=true&enable=upscale&crop=1.1187%3A1%2Coffset-y46&width=800",
-    "geoPlace": "Hattem"
+    "geoPlace": "Hattem",
+    "category": "Vermissing",
+    "year": 1983
   },
   {
     "lat": 51.907803,
@@ -185,7 +222,9 @@
     "link": "https://www.coldcasezaken.nl/coby-toet",
     "id": "coby-toet",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/441301168_960373208745258_3337259912846847405_n-standard.png",
-    "geoPlace": "Rotterdam"
+    "geoPlace": "Rotterdam",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.31027,
@@ -194,7 +233,9 @@
     "link": "https://www.coldcasezaken.nl/gerda-merchel",
     "id": "gerda-merchel",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-high-3758yw.png?enable-io=true&enable=upscale&crop=1.2476%3A1&width=800",
-    "geoPlace": "Zeewolde"
+    "geoPlace": "Zeewolde",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.783292,
@@ -203,7 +244,9 @@
     "link": "https://www.coldcasezaken.nl/germa-van-den-boom",
     "id": "germa-van-den-boom",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-139.jpg",
-    "geoPlace": "Nieuwendijk"
+    "geoPlace": "Nieuwendijk",
+    "category": "Vermissing",
+    "year": 1984
   },
   {
     "lat": 51.891041,
@@ -212,7 +255,9 @@
     "link": "https://www.coldcasezaken.nl/ahmed-korkmaz",
     "id": "ahmed-korkmaz",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/433144440_943486720317575_9196892957501941719_n-fotor-2024032815219-standard.png",
-    "geoPlace": "Rotterdam"
+    "geoPlace": "Rotterdam",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.379169,
@@ -221,7 +266,9 @@
     "link": "https://www.coldcasezaken.nl/willem-klein",
     "id": "willem-klein",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/0_6em44tdtnl6zqcza.jpg",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 1986
   },
   {
     "lat": 53.243306,
@@ -230,7 +277,9 @@
     "link": "https://www.coldcasezaken.nl/wijtske-bauer-hiemstra",
     "id": "wijtske-bauer-hiemstra",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-97.jpg",
-    "geoPlace": "Garmerwolde"
+    "geoPlace": "Garmerwolde",
+    "category": "Moord",
+    "year": 1986
   },
   {
     "lat": 53.024928,
@@ -239,7 +288,9 @@
     "link": "https://www.coldcasezaken.nl/piet-beentjes",
     "id": "piet-beentjes",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-high-bppw1g.png?enable-io=true&enable=upscale&crop=1.1373%3A1%2Coffset-y14&width=800",
-    "geoPlace": "Den Hoorn"
+    "geoPlace": "Den Hoorn",
+    "category": "Vermissing",
+    "year": 1987
   },
   {
     "lat": 51.337499,
@@ -248,7 +299,9 @@
     "link": "https://www.coldcasezaken.nl/helena-mendonca",
     "id": "helena-mendonca-guarda-lupe-espinal-en-rosanna-hidalgo-manzuela",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-26.png",
-    "geoPlace": "Terneuzen"
+    "geoPlace": "Terneuzen",
+    "category": "Moord",
+    "year": 1987
   },
   {
     "lat": 51.576193,
@@ -257,7 +310,9 @@
     "link": "https://www.coldcasezaken.nl/sjef-delahaije",
     "id": "sjef-delahaije",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-8.png",
-    "geoPlace": "Breda"
+    "geoPlace": "Breda",
+    "category": "Moord",
+    "year": 1987
   },
   {
     "lat": 52.012829,
@@ -266,7 +321,9 @@
     "link": "https://www.coldcasezaken.nl/alie-spruit-roelofsen",
     "id": "alie-spruit-roelofsen",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-216.jpg",
-    "geoPlace": "Haastrecht"
+    "geoPlace": "Haastrecht",
+    "category": "Vermissing",
+    "year": 1988
   },
   {
     "lat": 52.070652,
@@ -275,7 +332,9 @@
     "link": "https://www.coldcasezaken.nl/johannes-schrijvers",
     "id": "johannes-schrijvers",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-165.jpg",
-    "geoPlace": "Den Haag"
+    "geoPlace": "Den Haag",
+    "category": "Moord",
+    "year": 1988
   },
   {
     "lat": 52.095079,
@@ -284,7 +343,9 @@
     "link": "https://www.coldcasezaken.nl/alida-christiana-koopmans",
     "id": "alida-christiana-koopmans",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/2-37.jpg",
-    "geoPlace": "Den Haag"
+    "geoPlace": "Den Haag",
+    "category": "Moord",
+    "year": 1988
   },
   {
     "lat": 51.930482,
@@ -293,7 +354,9 @@
     "link": "https://www.coldcasezaken.nl/chris-boelsen",
     "id": "chris-boelsen",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/rc-1.png",
-    "geoPlace": "Rotterdam"
+    "geoPlace": "Rotterdam",
+    "category": "Moord",
+    "year": 1989
   },
   {
     "lat": 50.910171,
@@ -302,7 +365,9 @@
     "link": "https://www.coldcasezaken.nl/yvonne-plasmans",
     "id": "yvonne-plasmans",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-114.jpg",
-    "geoPlace": "Landgraaf"
+    "geoPlace": "Landgraaf",
+    "category": "Moord",
+    "year": 1989
   },
   {
     "lat": 52.005255,
@@ -311,7 +376,9 @@
     "link": "https://www.coldcasezaken.nl/wilma-bres",
     "id": "wilma-bres",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-standard-p6nx9f.png",
-    "geoPlace": "Delft"
+    "geoPlace": "Delft",
+    "category": "Moord",
+    "year": 1989
   },
   {
     "lat": 52.342912,
@@ -320,7 +387,9 @@
     "link": "https://www.coldcasezaken.nl/studente-ellen",
     "id": "studente-ellen",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-51.png",
-    "geoPlace": "Diemen"
+    "geoPlace": "Diemen",
+    "category": "Moord",
+    "year": 1989
   },
   {
     "lat": 51.365218,
@@ -329,7 +398,9 @@
     "link": "https://www.coldcasezaken.nl/marie-louise-wies-hensen",
     "id": "marie-louise-wies-hensen",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1.jpg",
-    "geoPlace": "Valkenswaard"
+    "geoPlace": "Valkenswaard",
+    "category": "Moord",
+    "year": 1989
   },
   {
     "lat": 52.334658,
@@ -338,7 +409,9 @@
     "link": "https://www.coldcasezaken.nl/mieke-gulien",
     "id": "mieke-harmina-gulien",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/harmina-gulien-1.jpg",
-    "geoPlace": "Muiden"
+    "geoPlace": "Muiden",
+    "category": "Vermissing",
+    "year": 1989
   },
   {
     "lat": 52.144553,
@@ -347,7 +420,9 @@
     "link": "https://www.coldcasezaken.nl/duncan-zwakke",
     "id": "duncan-zwakke",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/duncan-zwakke.jpg",
-    "geoPlace": "Zutphen"
+    "geoPlace": "Zutphen",
+    "category": "Vermissing",
+    "year": 1989
   },
   {
     "lat": 52.37211,
@@ -356,7 +431,9 @@
     "link": "https://www.coldcasezaken.nl/marie-christine-jonas",
     "id": "marie-christine-jonas",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-241.jpg",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 1989
   },
   {
     "lat": 53.33995,
@@ -365,7 +442,9 @@
     "link": "https://www.coldcasezaken.nl/simone-de-laat",
     "id": "simone-de-laat",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-57.png",
-    "geoPlace": "Ferwert"
+    "geoPlace": "Ferwert",
+    "category": "Moord",
+    "year": 1989
   },
   {
     "lat": 52.087409,
@@ -374,7 +453,9 @@
     "link": "https://www.coldcasezaken.nl/robert-obermeijer",
     "id": "robert-obermeijer",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-153.jpg",
-    "geoPlace": "Utrecht"
+    "geoPlace": "Utrecht",
+    "category": "Moord",
+    "year": 1989
   },
   {
     "lat": 51.245891,
@@ -383,7 +464,9 @@
     "link": "https://www.coldcasezaken.nl/anouschka-weezenbeek",
     "id": "anouschka-weezenbeek",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/121.jpg",
-    "geoPlace": "Weert"
+    "geoPlace": "Weert",
+    "category": "Moord",
+    "year": 1990
   },
   {
     "lat": 51.91363,
@@ -392,7 +475,9 @@
     "link": "https://www.coldcasezaken.nl/hans-van-der-mee",
     "id": "hans-van-der-mee",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-32.png",
-    "geoPlace": "Rotterdam"
+    "geoPlace": "Rotterdam",
+    "category": "Moord",
+    "year": 1990
   },
   {
     "lat": 52.26049,
@@ -401,7 +486,9 @@
     "link": "https://www.coldcasezaken.nl/yvonne-honders",
     "id": "yvonne-honders",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/2-59.jpg",
-    "geoPlace": "Rijsenhout"
+    "geoPlace": "Rijsenhout",
+    "category": "Moord",
+    "year": 1990
   },
   {
     "lat": 52.096698,
@@ -410,7 +497,9 @@
     "link": "https://www.coldcasezaken.nl/jan-de-niet",
     "id": "jan-de-niet",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-35.jpg",
-    "geoPlace": "Den Haag"
+    "geoPlace": "Den Haag",
+    "category": "Moord",
+    "year": 1990
   },
   {
     "lat": 51.92172,
@@ -419,7 +508,9 @@
     "link": "https://www.coldcasezaken.nl/natascha-meijer",
     "id": "natascha-meijer",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/bzoisx/2-74.jpg?enable-io=true&enable=upscale&crop=0.7216%3A1&width=800",
-    "geoPlace": "Rotterdam"
+    "geoPlace": "Rotterdam",
+    "category": "Moord",
+    "year": 1990
   },
   {
     "lat": 52.077907,
@@ -428,7 +519,9 @@
     "link": "https://www.coldcasezaken.nl/petronella-huijbens",
     "id": "petronella-huijbens",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-50.jpg",
-    "geoPlace": "Den Haag"
+    "geoPlace": "Den Haag",
+    "category": "Moord",
+    "year": 1990
   },
   {
     "lat": 52.09337,
@@ -437,7 +530,9 @@
     "link": "https://www.coldcasezaken.nl/edward-moonen",
     "id": "edward-moonen",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-31.jpg",
-    "geoPlace": "Den Haag"
+    "geoPlace": "Den Haag",
+    "category": "Moord",
+    "year": 1990
   },
   {
     "lat": 51.931933,
@@ -446,7 +541,9 @@
     "link": "https://www.coldcasezaken.nl/maarten-nelisse",
     "id": "maarten-nelisse",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-89.jpg",
-    "geoPlace": "Rotterdam"
+    "geoPlace": "Rotterdam",
+    "category": "Moord",
+    "year": 1991
   },
   {
     "lat": 51.324254,
@@ -455,7 +552,9 @@
     "link": "https://www.coldcasezaken.nl/saadet-secmen",
     "id": "saadet-secmen",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/fhaab3/1-263.jpg?enable-io=true&enable=upscale&crop=0.7344%3A1&width=800",
-    "geoPlace": "Terneuzen"
+    "geoPlace": "Terneuzen",
+    "category": "Moord",
+    "year": 1991
   },
   {
     "lat": 51.82956,
@@ -464,7 +563,9 @@
     "link": "https://www.coldcasezaken.nl/vera-van-der-lee-van-soldt",
     "id": "vera-van-der-lee",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/vera-portret.jpg",
-    "geoPlace": "Papendrecht"
+    "geoPlace": "Papendrecht",
+    "category": "Moord",
+    "year": 1991
   },
   {
     "lat": 52.061723,
@@ -473,7 +574,9 @@
     "link": "https://www.coldcasezaken.nl/cornelia-van-den-bergen-groenewold",
     "id": "cornelia-bergen-groenewold",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-42.jpg",
-    "geoPlace": "Den Haag"
+    "geoPlace": "Den Haag",
+    "category": "Moord",
+    "year": 1991
   },
   {
     "lat": 51.424745,
@@ -482,7 +585,9 @@
     "link": "http://coldcasezaken.nl/gerrie-schellekens",
     "id": "gerrie-schellekens",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/download-3.webp",
-    "geoPlace": "Vessem"
+    "geoPlace": "Vessem",
+    "category": "Moord",
+    "year": 1991
   },
   {
     "lat": 53.199195,
@@ -491,7 +596,9 @@
     "link": "https://www.coldcasezaken.nl/louis-lemstra",
     "id": "bettus-louis-lemstra",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-204.jpg",
-    "geoPlace": "Wijnaldum"
+    "geoPlace": "Wijnaldum",
+    "category": "Overige",
+    "year": 1991
   },
   {
     "lat": 52.368474,
@@ -500,7 +607,9 @@
     "link": "https://www.coldcasezaken.nl/theo-kroon",
     "id": "theo-kroon",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/jrw1af/1-149.jpg?enable-io=true&enable=upscale&crop=0.7311%3A1&width=800",
-    "geoPlace": "Haarlem"
+    "geoPlace": "Haarlem",
+    "category": "Moord",
+    "year": 1991
   },
   {
     "lat": 52.282842,
@@ -509,7 +618,9 @@
     "link": "https://www.coldcasezaken.nl/onbekende-dode-man-naarden",
     "id": "onbekende-dode-man",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/nxleab/reconstructie-hoofd-01.jpg?enable-io=true&enable=upscale&crop=0.675%3A1&width=800",
-    "geoPlace": "Naarden"
+    "geoPlace": "Naarden",
+    "category": "Onbekende doden",
+    "year": 1991
   },
   {
     "lat": 52.359777,
@@ -518,7 +629,9 @@
     "link": "https://www.coldcasezaken.nl/a-van-veen",
     "id": "a-van-veen",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-30.png",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 1991
   },
   {
     "lat": 52.700007,
@@ -527,7 +640,9 @@
     "link": "https://www.coldcasezaken.nl/willeke-dost",
     "id": "willeke-dost",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/236d7f93-23ec-3622-9f7e-afd8e29aa7e0-high.jpg?enable-io=true&enable=upscale&crop=1.7806%3A1&width=800",
-    "geoPlace": "Koekange"
+    "geoPlace": "Koekange",
+    "category": "Vermissing",
+    "year": 1992
   },
   {
     "lat": 52.0679,
@@ -536,7 +651,9 @@
     "link": "https://www.coldcasezaken.nl/louis-van-dam",
     "id": "louis-loek-van-dam",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-1.png",
-    "geoPlace": "Den Haag"
+    "geoPlace": "Den Haag",
+    "category": "Moord",
+    "year": 1992
   },
   {
     "lat": 51.42747,
@@ -545,7 +662,9 @@
     "link": "https://www.coldcasezaken.nl/wim-timmermans",
     "id": "wim-timmermans",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-228.jpg",
-    "geoPlace": "Eindhoven"
+    "geoPlace": "Eindhoven",
+    "category": "Moord",
+    "year": 1992
   },
   {
     "lat": 51.3705,
@@ -554,7 +673,9 @@
     "link": "https://www.coldcasezaken.nl/miet-van-bommel",
     "id": "miet-van-bommel",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-159.jpg",
-    "geoPlace": "Bladel"
+    "geoPlace": "Bladel",
+    "category": "Moord",
+    "year": 1992
   },
   {
     "lat": 52.364706,
@@ -563,7 +684,9 @@
     "link": "https://www.coldcasezaken.nl/onbekende-dode-man-kinkerbrug-amsterdam",
     "id": "onbekende-vermoorde-man",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/dadd-standard-335u3f.png",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 1992
   },
   {
     "lat": 52.391973,
@@ -572,7 +695,8 @@
     "link": "https://www.coldcasezaken.nl/lisette-vroege",
     "id": "lisette-vroege",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/lisettevroege2-1.jpg",
-    "geoPlace": "Haarlem"
+    "geoPlace": "Haarlem",
+    "category": "Vermissing"
   },
   {
     "lat": 50.923591,
@@ -581,7 +705,9 @@
     "link": "https://www.coldcasezaken.nl/marina-denzler",
     "id": "marina-denzler",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-28.png",
-    "geoPlace": "Heerlen"
+    "geoPlace": "Heerlen",
+    "category": "Moord",
+    "year": 1992
   },
   {
     "lat": 52.06573,
@@ -590,7 +716,9 @@
     "link": "https://www.coldcasezaken.nl/francina-hoogland",
     "id": "francina-hoogland",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-29.png",
-    "geoPlace": "Den Haag"
+    "geoPlace": "Den Haag",
+    "category": "Moord",
+    "year": 1992
   },
   {
     "lat": 53.095506,
@@ -599,7 +727,9 @@
     "link": "https://www.coldcasezaken.nl/folkert-veenstra",
     "id": "folkert-veenstra",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-2.jpg",
-    "geoPlace": "Ureterp"
+    "geoPlace": "Ureterp",
+    "category": "Moord",
+    "year": 1992
   },
   {
     "lat": 52.374361,
@@ -608,7 +738,9 @@
     "link": "https://www.coldcasezaken.nl/emerentia-hogema-diepenbrock",
     "id": "emmy-hogema-diepenbrock",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-99.jpg",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 1992
   },
   {
     "lat": 51.641825,
@@ -617,7 +749,9 @@
     "link": "https://www.coldcasezaken.nl/theo-van-den-oetelaar",
     "id": "theo-van-den-oetelaar",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-167.jpg",
-    "geoPlace": "Oosterhout"
+    "geoPlace": "Oosterhout",
+    "category": "Vermissing",
+    "year": 1992
   },
   {
     "lat": 50.819649,
@@ -626,7 +760,9 @@
     "link": "https://www.coldcasezaken.nl/christiane-heiser",
     "id": "christiane-heiser",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/lf1sxh/1-1.jpeg?enable-io=true&enable=upscale&crop=0.685%3A1&width=800",
-    "geoPlace": "Elsene"
+    "geoPlace": "Elsene",
+    "category": "Moord",
+    "year": 1992
   },
   {
     "lat": 51.677567,
@@ -635,7 +771,9 @@
     "link": "https://www.coldcasezaken.nl/mariette-peters",
     "id": "mariette-peters",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/gh7gw9/1-230.jpg?enable-io=true&enable=upscale&crop=0.5792%3A1&width=800",
-    "geoPlace": "Sint Hubert"
+    "geoPlace": "Sint Hubert",
+    "category": "Moord",
+    "year": 1992
   },
   {
     "lat": 53.209842,
@@ -644,7 +782,9 @@
     "link": "https://www.coldcasezaken.nl/roelof-steinvoorte",
     "id": "roelof-steinvoorte",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-173.jpg",
-    "geoPlace": "Leeuwarden"
+    "geoPlace": "Leeuwarden",
+    "category": "Moord",
+    "year": 1992
   },
   {
     "lat": 51.488438,
@@ -653,7 +793,8 @@
     "link": "https://www.coldcasezaken.nl/marinus-terwoert",
     "id": "marinus-terwoert",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-58.png",
-    "geoPlace": "Biggekerke"
+    "geoPlace": "Biggekerke",
+    "category": "Moord"
   },
   {
     "lat": 51.95724,
@@ -662,7 +803,8 @@
     "link": "https://www.coldcasezaken.nl/onbekende-man-treinspoor-didam",
     "id": "suicide-onbekende-man",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/9vu1ix/image-64.png?enable-io=true&enable=upscale&crop=1.7009%3A1&width=800",
-    "geoPlace": "Wehl"
+    "geoPlace": "Wehl",
+    "category": "Overige"
   },
   {
     "lat": 52.195579,
@@ -671,7 +813,9 @@
     "link": "https://www.coldcasezaken.nl/lieneke-troost",
     "id": "lieneke-troost",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-48.png",
-    "geoPlace": "Oegstgeest"
+    "geoPlace": "Oegstgeest",
+    "category": "Moord",
+    "year": 1993
   },
   {
     "lat": 51.961844,
@@ -680,7 +824,9 @@
     "link": "https://www.coldcasezaken.nl/imelda-becerro",
     "id": "imelda-becerro",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-standard-vmy29y.png",
-    "geoPlace": "Rotterdam"
+    "geoPlace": "Rotterdam",
+    "category": "Vermissing",
+    "year": 1993
   },
   {
     "lat": 51.590467,
@@ -689,7 +835,9 @@
     "link": "https://www.coldcasezaken.nl/jenneke-de-wind",
     "id": "jenneke-de-wind",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-5.png",
-    "geoPlace": "Tilburg"
+    "geoPlace": "Tilburg",
+    "category": "Moord",
+    "year": 1993
   },
   {
     "lat": 51.19098,
@@ -698,7 +846,8 @@
     "link": "https://www.coldcasezaken.nl/tania-van-kerkhoven",
     "id": "tania-van-kerkhoven",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/2-47.jpg",
-    "geoPlace": "Antwerpen"
+    "geoPlace": "Antwerpen",
+    "category": "Moord"
   },
   {
     "lat": 52.385005,
@@ -707,7 +856,9 @@
     "link": "https://www.coldcasezaken.nl/dirk-schaap",
     "id": "dirk-schaap",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/untitled-1-3.jpg",
-    "geoPlace": "Haarlem"
+    "geoPlace": "Haarlem",
+    "category": "Moord",
+    "year": 1993
   },
   {
     "lat": 52.070422,
@@ -716,7 +867,9 @@
     "link": "https://www.coldcasezaken.nl/fatiha-hasnaoui",
     "id": "fatiha-hasnaoui",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-9.jpg",
-    "geoPlace": "Den Haag"
+    "geoPlace": "Den Haag",
+    "category": "Moord",
+    "year": 1993
   },
   {
     "lat": 52.50858,
@@ -725,7 +878,9 @@
     "link": "https://www.coldcasezaken.nl/judit-nyari",
     "id": "judit-nyari",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/kpld91/dubbele-foto.jpg?enable-io=true&enable=upscale&crop=1.294%3A1%2Coffset-x68&width=800",
-    "geoPlace": "Dronten"
+    "geoPlace": "Dronten",
+    "category": "Moord",
+    "year": 1993
   },
   {
     "lat": 51.682419,
@@ -734,7 +889,9 @@
     "link": "https://www.coldcasezaken.nl/babylijkje-den-bosch",
     "id": "onbekend-babylijkje",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/untitled-1-5.jpg",
-    "geoPlace": "'s-Hertogenbosch"
+    "geoPlace": "'s-Hertogenbosch",
+    "category": "Overige",
+    "year": 1994
   },
   {
     "lat": 50.876253,
@@ -743,7 +900,9 @@
     "link": "https://www.coldcasezaken.nl/herman-meert",
     "id": "herman-meert",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-5.png",
-    "geoPlace": "Brussel"
+    "geoPlace": "Brussel",
+    "category": "Moord",
+    "year": 1994
   },
   {
     "lat": 52.298028,
@@ -752,7 +911,9 @@
     "link": "https://www.coldcasezaken.nl/lydia-baneke-knap",
     "id": "lydia-baneke-knap",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-high-riglzn.png?enable-io=true&enable=upscale&crop=0.8889%3A1&width=800",
-    "geoPlace": "Amstelveen"
+    "geoPlace": "Amstelveen",
+    "category": "Moord",
+    "year": 1994
   },
   {
     "lat": 52.097774,
@@ -761,7 +922,9 @@
     "link": "https://www.coldcasezaken.nl/pieter-hornstra",
     "id": "pieter-hornstra",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-54.png",
-    "geoPlace": "Den Haag"
+    "geoPlace": "Den Haag",
+    "category": "Moord",
+    "year": 1994
   },
   {
     "lat": 52.375656,
@@ -770,7 +933,9 @@
     "link": "https://www.coldcasezaken.nl/daniel-manion",
     "id": "daniel-manion",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/hqh7ci/1-18.jpg?enable-io=true&enable=upscale&crop=0.7806%3A1&width=800",
-    "geoPlace": "Haarlem"
+    "geoPlace": "Haarlem",
+    "category": "Moord",
+    "year": 1994
   },
   {
     "lat": 51.922797,
@@ -779,7 +944,9 @@
     "link": "https://www.coldcasezaken.nl/mario-das-dores",
     "id": "mario-das-dores",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/8b2c2dae-3efc-393d-afe5-2f16b559c6ad-high.png?enable-io=true&enable=upscale&crop=0.7159%3A1&width=800",
-    "geoPlace": "Rotterdam"
+    "geoPlace": "Rotterdam",
+    "category": "Moord",
+    "year": 1994
   },
   {
     "lat": 51.496818,
@@ -788,7 +955,8 @@
     "link": "https://www.coldcasezaken.nl/jessica-de-roij",
     "id": "jessica-yecca-de-roij",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/3hckyb/1-120.jpg?enable-io=true&enable=upscale&crop=0.8949%3A1&width=800",
-    "geoPlace": "Helmond"
+    "geoPlace": "Helmond",
+    "category": "Moord"
   },
   {
     "lat": 51.963775,
@@ -797,7 +965,9 @@
     "link": "https://www.coldcasezaken.nl/cafer-gungor",
     "id": "cafer-gungor",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-46.png",
-    "geoPlace": "Doetinchem"
+    "geoPlace": "Doetinchem",
+    "category": "Moord",
+    "year": 1994
   },
   {
     "lat": 51.491227,
@@ -806,7 +976,9 @@
     "link": "https://www.coldcasezaken.nl/maria-van-der-zanden",
     "id": "maria-van-der-zanden",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-141.jpg",
-    "geoPlace": "Möhnesee"
+    "geoPlace": "Möhnesee",
+    "category": "Overige",
+    "year": 1994
   },
   {
     "lat": 51.906011,
@@ -815,7 +987,9 @@
     "link": "https://www.coldcasezaken.nl/johanna-de-vos",
     "id": "johanna-de-vos",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-180.jpg",
-    "geoPlace": "Vlaardingen"
+    "geoPlace": "Vlaardingen",
+    "category": "Moord",
+    "year": 1994
   },
   {
     "lat": 52.069469,
@@ -824,7 +998,8 @@
     "link": "https://www.coldcasezaken.nl/mohamed-baksoellah",
     "id": "mohamed-baksoellah",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-118.jpg",
-    "geoPlace": "Den Haag"
+    "geoPlace": "Den Haag",
+    "category": "Moord"
   },
   {
     "lat": 51.907454,
@@ -832,7 +1007,9 @@
     "title": "De moord op Frank Christiaan Petrus Meijeren 1995",
     "link": "https://www.coldcasezaken.nl/frank-christiaan-petrus-meijeren",
     "id": "frank-christiaan-petrus-meijeren",
-    "geoPlace": "Rotterdam"
+    "geoPlace": "Rotterdam",
+    "category": "Moord",
+    "year": 1995
   },
   {
     "lat": 52.362795,
@@ -841,7 +1018,9 @@
     "link": "https://www.coldcasezaken.nl/glenn-crawfurd",
     "id": "glenn-crawfurd",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/2cb9e4d5-209d-4ea1-9b9d-19736d568c89-high.jpg?enable-io=true&enable=upscale&crop=0.8853%3A1&width=800",
-    "geoPlace": "Almere"
+    "geoPlace": "Almere",
+    "category": "Moord",
+    "year": 1995
   },
   {
     "lat": 52.046795,
@@ -850,7 +1029,9 @@
     "link": "https://www.coldcasezaken.nl/sjaak-gerwig",
     "id": "sjaak-gerwig",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-78.jpg",
-    "geoPlace": "Nieuwegein"
+    "geoPlace": "Nieuwegein",
+    "category": "Moord",
+    "year": 1995
   },
   {
     "lat": 52.104595,
@@ -859,7 +1040,9 @@
     "link": "https://www.coldcasezaken.nl/kumral-bagci",
     "id": "kumral-bagci",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/543784746_1315818330196882_8037983246393710198_n-high.png?enable-io=true&enable=upscale&crop=0.7759%3A1&width=800",
-    "geoPlace": "Den Haag"
+    "geoPlace": "Den Haag",
+    "category": "Moord",
+    "year": 1995
   },
   {
     "lat": 53.239395,
@@ -868,7 +1051,9 @@
     "link": "https://www.coldcasezaken.nl/anna-heemenga",
     "id": "anna-heemenga",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-69.jpg",
-    "geoPlace": "Groningen"
+    "geoPlace": "Groningen",
+    "category": "Moord",
+    "year": 1995
   },
   {
     "lat": 52.035768,
@@ -877,7 +1062,9 @@
     "link": "https://www.coldcasezaken.nl/jair-soares",
     "id": "jair-soares",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/yqo0pr/1-7.jpg?enable-io=true&enable=upscale&crop=0.9875%3A1&width=800",
-    "geoPlace": "Monster"
+    "geoPlace": "Monster",
+    "category": "Vermissing",
+    "year": 1995
   },
   {
     "lat": 52.354422,
@@ -886,7 +1073,9 @@
     "link": "https://www.coldcasezaken.nl/hayrettin-sahin",
     "id": "hayrettin-sahin",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-3.png",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 1995
   },
   {
     "lat": 51.502863,
@@ -895,7 +1084,9 @@
     "link": "https://www.coldcasezaken.nl/manon-seijkens",
     "id": "manon-seijkens",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-123.jpg",
-    "geoPlace": "Aarle-Rixtel"
+    "geoPlace": "Aarle-Rixtel",
+    "category": "Moord",
+    "year": 1995
   },
   {
     "lat": 50.933692,
@@ -904,7 +1095,9 @@
     "link": "https://www.coldcasezaken.nl/jozef-sjef-klee",
     "id": "sjef-klee",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-137.jpg",
-    "geoPlace": "Brunssum"
+    "geoPlace": "Brunssum",
+    "category": "Moord",
+    "year": 1995
   },
   {
     "lat": 52.068758,
@@ -913,7 +1106,9 @@
     "link": "https://www.coldcasezaken.nl/martin-de-bruijn",
     "id": "martin-de-bruijn",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-high-fle8ch.png?enable-io=true&enable=upscale&crop=1.1164%3A1%2Coffset-y47&width=800",
-    "geoPlace": "Den Haag"
+    "geoPlace": "Den Haag",
+    "category": "Moord",
+    "year": 1995
   },
   {
     "lat": 52.252085,
@@ -922,7 +1117,9 @@
     "link": "https://www.coldcasezaken.nl/hugo-bootsma",
     "id": "hugo-bootsma",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/2-12.jpg",
-    "geoPlace": "Deventer"
+    "geoPlace": "Deventer",
+    "category": "Moord",
+    "year": 1995
   },
   {
     "lat": 52.509886,
@@ -931,7 +1128,9 @@
     "link": "https://www.coldcasezaken.nl/harry-zunnebeld",
     "id": "harry-zunnebelt",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-54.jpg",
-    "geoPlace": "Zwolle"
+    "geoPlace": "Zwolle",
+    "category": "Moord",
+    "year": 1995
   },
   {
     "lat": 51.359262,
@@ -940,7 +1139,8 @@
     "link": "https://www.coldcasezaken.nl/mien-berden",
     "id": "mien-berden",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/352-b_25916_pagina_1-standard.jpg",
-    "geoPlace": "Grashoek"
+    "geoPlace": "Grashoek",
+    "category": "Moord"
   },
   {
     "lat": 52.081204,
@@ -949,7 +1149,9 @@
     "link": "https://www.coldcasezaken.nl/peternella-hanegraaff",
     "id": "peternella-hanegraaff",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-29.jpg",
-    "geoPlace": "Den Haag"
+    "geoPlace": "Den Haag",
+    "category": "Moord",
+    "year": 1996
   },
   {
     "lat": 51.903369,
@@ -958,7 +1160,8 @@
     "link": "https://www.coldcasezaken.nl/veronica-camarines",
     "id": "kim-veronica-camarines",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/555.jpg",
-    "geoPlace": "Rotterdam"
+    "geoPlace": "Rotterdam",
+    "category": "Moord"
   },
   {
     "lat": 51.064087,
@@ -967,7 +1170,9 @@
     "link": "https://www.coldcasezaken.nl/liam-vanden-branden",
     "id": "liam-vanden-branden",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/5-8.jpg",
-    "geoPlace": "Mechelen"
+    "geoPlace": "Mechelen",
+    "category": "Vermissing",
+    "year": 1996
   },
   {
     "lat": 50.995314,
@@ -976,7 +1181,9 @@
     "link": "https://www.coldcasezaken.nl/rosa-van-der-palen",
     "id": "rosa-van-der-palen",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-high-lvr8ki.png?enable-io=true&enable=upscale&crop=1.2558%3A1%2Coffset-x34&width=800",
-    "geoPlace": "Sittard"
+    "geoPlace": "Sittard",
+    "category": "Vermissing",
+    "year": 1996
   },
   {
     "lat": 52.355845,
@@ -985,7 +1192,9 @@
     "link": "https://www.coldcasezaken.nl/marina-schulein",
     "id": "marina-schulein",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/marina-hendrika-schulein.jpg",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Vermissing",
+    "year": 1996
   },
   {
     "lat": 51.618348,
@@ -994,7 +1203,9 @@
     "link": "https://www.coldcasezaken.nl/sabrina-pelizzon",
     "id": "sabrina-pelizzon",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-26.png",
-    "geoPlace": "Ouwerkerk"
+    "geoPlace": "Ouwerkerk",
+    "category": "Moord",
+    "year": 1996
   },
   {
     "lat": 53.23963,
@@ -1003,7 +1214,9 @@
     "link": "https://www.coldcasezaken.nl/reinder-lulofs",
     "id": "reinder-lulofs",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-95.jpg",
-    "geoPlace": "Twijzelerheide"
+    "geoPlace": "Twijzelerheide",
+    "category": "Moord",
+    "year": 1996
   },
   {
     "lat": 52.284658,
@@ -1012,7 +1225,9 @@
     "link": "https://www.coldcasezaken.nl/renate-schauerhammer",
     "id": "renate-schauerhammer",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-standard-1hauix.png",
-    "geoPlace": "Noordwijk"
+    "geoPlace": "Noordwijk",
+    "category": "Moord",
+    "year": 1996
   },
   {
     "lat": 50.887116,
@@ -1021,7 +1236,9 @@
     "link": "https://www.coldcasezaken.nl/simone-riedel",
     "id": "simone-riedel",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-7.png",
-    "geoPlace": "Heerlen"
+    "geoPlace": "Heerlen",
+    "category": "Moord",
+    "year": 1997
   },
   {
     "lat": 51.624786,
@@ -1030,7 +1247,9 @@
     "link": "https://www.coldcasezaken.nl/orhan-kirac",
     "id": "orhan-kirac",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-128.jpg",
-    "geoPlace": "Hoeven"
+    "geoPlace": "Hoeven",
+    "category": "Moord",
+    "year": 1997
   },
   {
     "lat": 51.792886,
@@ -1039,7 +1258,9 @@
     "link": "https://www.coldcasezaken.nl/ancharee-sripho",
     "id": "ancharee-sripho",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-standard.png",
-    "geoPlace": "Dordrecht"
+    "geoPlace": "Dordrecht",
+    "category": "Moord",
+    "year": 1997
   },
   {
     "lat": 52.365864,
@@ -1048,7 +1269,9 @@
     "link": "https://www.coldcasezaken.nl/dode-baby-celebesstraat-amsterdam",
     "id": "onbekend-baby-lijkje",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/jm43-040497-dekbedovertrek.png",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Overige",
+    "year": 1997
   },
   {
     "lat": 52.359034,
@@ -1057,7 +1280,9 @@
     "link": "https://www.coldcasezaken.nl/piet-bosters",
     "id": "piet-bosters",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/images_5839125d200d4c9daf62bb76082007ff.jpg",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 1997
   },
   {
     "lat": 51.87149,
@@ -1066,7 +1291,9 @@
     "link": "https://www.coldcasezaken.nl/mirjam-moeller",
     "id": "mirjam-moller",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-190.jpg",
-    "geoPlace": "Rotterdam"
+    "geoPlace": "Rotterdam",
+    "category": "Moord",
+    "year": 1997
   },
   {
     "lat": 51.587629,
@@ -1075,7 +1302,9 @@
     "link": "https://www.coldcasezaken.nl/marcel-carton",
     "id": "marcel-carton",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-73.jpg",
-    "geoPlace": "Breda"
+    "geoPlace": "Breda",
+    "category": "Moord",
+    "year": 1997
   },
   {
     "lat": 51.505929,
@@ -1084,7 +1313,9 @@
     "link": "https://www.coldcasezaken.nl/onbekende-man-in-best",
     "id": "een-onbekende-man",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/blouse1.jpg",
-    "geoPlace": "Best"
+    "geoPlace": "Best",
+    "category": "Moord",
+    "year": 1997
   },
   {
     "lat": 50.859898,
@@ -1093,7 +1324,9 @@
     "link": "https://www.coldcasezaken.nl/maria-simons",
     "id": "maria-simons",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-20.png",
-    "geoPlace": "Maastricht"
+    "geoPlace": "Maastricht",
+    "category": "Moord",
+    "year": 1997
   },
   {
     "lat": 52.312592,
@@ -1102,7 +1335,9 @@
     "link": "https://www.coldcasezaken.nl/jacqueline-antes",
     "id": "jacqueline-antes",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-208.jpg",
-    "geoPlace": "Zeewolde"
+    "geoPlace": "Zeewolde",
+    "category": "Moord",
+    "year": 1997
   },
   {
     "lat": 51.555496,
@@ -1111,7 +1346,9 @@
     "link": "https://www.coldcasezaken.nl/justus-hertig",
     "id": "justus-hertig",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-182.jpg",
-    "geoPlace": "Tilburg"
+    "geoPlace": "Tilburg",
+    "category": "Moord",
+    "year": 1997
   },
   {
     "lat": 51.923331,
@@ -1120,7 +1357,9 @@
     "link": "https://www.coldcasezaken.nl/michel-rubarth",
     "id": "michel-rubarth",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/michel_rubarth2-high-z7ykzd.png?enable-io=true&enable=upscale&crop=0.8822%3A1%2Coffset-y95&width=800",
-    "geoPlace": "Rotterdam"
+    "geoPlace": "Rotterdam",
+    "category": "Vermissing",
+    "year": 1997
   },
   {
     "lat": 52.515382,
@@ -1129,7 +1368,9 @@
     "link": "https://www.coldcasezaken.nl/salvatore-nicolosi",
     "id": "salvatore-nicolosi",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-high-e4fa8f.png?enable-io=true&enable=upscale&crop=0.8021%3A1&width=800",
-    "geoPlace": "Purmerend"
+    "geoPlace": "Purmerend",
+    "category": "Moord",
+    "year": 1998
   },
   {
     "lat": 53.229263,
@@ -1138,7 +1379,9 @@
     "link": "https://www.coldcasezaken.nl/jolanda-meijer",
     "id": "jolanda-meijer",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-standard-ji7z8h.png",
-    "geoPlace": "Groningen"
+    "geoPlace": "Groningen",
+    "category": "Vermissing",
+    "year": 1998
   },
   {
     "lat": 52.398772,
@@ -1147,7 +1390,9 @@
     "link": "https://www.coldcasezaken.nl/onbekende-man-met-draaktattoo",
     "id": "een-onbekende-man-2",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-56.png",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 1998
   },
   {
     "lat": 51.452711,
@@ -1156,7 +1401,9 @@
     "link": "https://www.coldcasezaken.nl/babylijkje-baarle-nassau",
     "id": "onbekend-babylijkje-2",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-10.png",
-    "geoPlace": "Baarle-Nassau"
+    "geoPlace": "Baarle-Nassau",
+    "category": "Overige",
+    "year": 1998
   },
   {
     "lat": 52.320265,
@@ -1165,7 +1412,9 @@
     "link": "https://www.coldcasezaken.nl/kanadid-ahmed-gaste",
     "id": "kanadid-gaste",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-high-kz5co5.png?enable-io=true&enable=upscale&crop=0.7074%3A1&width=800",
-    "geoPlace": "Hoofddorp"
+    "geoPlace": "Hoofddorp",
+    "category": "Moord",
+    "year": 1998
   },
   {
     "lat": 53.219891,
@@ -1174,7 +1423,9 @@
     "link": "https://www.coldcasezaken.nl/cor-booisma",
     "id": "cornelis-booisma",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-58.jpg",
-    "geoPlace": "Groningen"
+    "geoPlace": "Groningen",
+    "category": "Moord",
+    "year": 1998
   },
   {
     "lat": 52.362742,
@@ -1183,7 +1434,9 @@
     "link": "https://www.coldcasezaken.nl/onbekende-man-flevopark",
     "id": "een-onbekende-man-3",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/a9tv0b/week-46-onbekende-man.jpg?enable-io=true&enable=upscale&crop=0.5682%3A1&width=800",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 1998
   },
   {
     "lat": 51.875397,
@@ -1192,7 +1445,9 @@
     "link": "https://www.coldcasezaken.nl/daan-van-kranenburg",
     "id": "daan-van-kranenburg",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/i4rev8/image-52.png?enable-io=true&enable=upscale&crop=0.9512%3A1&width=800",
-    "geoPlace": "Geldermalsen"
+    "geoPlace": "Geldermalsen",
+    "category": "Moord",
+    "year": 1998
   },
   {
     "lat": 52.253698,
@@ -1201,7 +1456,9 @@
     "link": "https://www.coldcasezaken.nl/muharem-cazim-hebib",
     "id": "muharem-cazim-hebib",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-5.jpg",
-    "geoPlace": "Deventer"
+    "geoPlace": "Deventer",
+    "category": "Moord",
+    "year": 1999
   },
   {
     "lat": 52.532661,
@@ -1210,7 +1467,9 @@
     "link": "https://www.coldcasezaken.nl/alex-van-cittert",
     "id": "alex-van-cittert",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/op-10-februari-1999-verliet-alex-lex-van-cittert-37-zijn-standard.jpg",
-    "geoPlace": "Lelystad"
+    "geoPlace": "Lelystad",
+    "category": "Moord",
+    "year": 1999
   },
   {
     "lat": 51.994013,
@@ -1219,7 +1478,9 @@
     "link": "https://www.coldcasezaken.nl/hans-bluml",
     "id": "hans-bluml",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-48.jpg",
-    "geoPlace": "Arnhem"
+    "geoPlace": "Arnhem",
+    "category": "Moord",
+    "year": 1999
   },
   {
     "lat": 52.254744,
@@ -1228,7 +1489,9 @@
     "link": "https://www.coldcasezaken.nl/onbekende-man-arkervaart",
     "id": "een-onbekende-man-4",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-276.jpg",
-    "geoPlace": "Nijkerk"
+    "geoPlace": "Nijkerk",
+    "category": "Moord",
+    "year": 1999
   },
   {
     "lat": 51.909033,
@@ -1237,7 +1500,9 @@
     "link": "https://www.coldcasezaken.nl/jeanette-sip",
     "id": "jeanette-sip",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/150-2.jpg",
-    "geoPlace": "Rotterdam"
+    "geoPlace": "Rotterdam",
+    "category": "Moord",
+    "year": 1999
   },
   {
     "lat": 51.928151,
@@ -1246,7 +1511,9 @@
     "link": "https://www.coldcasezaken.nl/linda-mens",
     "id": "linda-mens",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-39.jpg",
-    "geoPlace": "Zevenaar"
+    "geoPlace": "Zevenaar",
+    "category": "Moord",
+    "year": 1999
   },
   {
     "lat": 51.445297,
@@ -1255,7 +1522,9 @@
     "link": "https://www.coldcasezaken.nl/ine-wijnen",
     "id": "ine-wijnen",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-187.jpg",
-    "geoPlace": "Eindhoven"
+    "geoPlace": "Eindhoven",
+    "category": "Moord",
+    "year": 1999
   },
   {
     "lat": 52.331816,
@@ -1264,7 +1533,9 @@
     "link": "https://www.coldcasezaken.nl/klikobak-moord",
     "id": "de-kliko-bak-moord",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-high-ecrkz5.png?enable-io=true&enable=upscale&crop=0.7466%3A1&width=800",
-    "geoPlace": "Muiden"
+    "geoPlace": "Muiden",
+    "category": "Moord",
+    "year": 1999
   },
   {
     "lat": 51.927157,
@@ -1273,7 +1544,8 @@
     "link": "https://www.coldcasezaken.nl/riet-poot",
     "id": "riet-poot",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-71.jpg",
-    "geoPlace": "Maassluis"
+    "geoPlace": "Maassluis",
+    "category": "Moord"
   },
   {
     "lat": 51.08014,
@@ -1282,7 +1554,9 @@
     "link": "https://www.coldcasezaken.nl/nadia-mehallaoui",
     "id": "nadia-mehallaoui",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-145.jpg",
-    "geoPlace": "Maria Hoop"
+    "geoPlace": "Maria Hoop",
+    "category": "Moord",
+    "year": 2000
   },
   {
     "lat": 51.919225,
@@ -1291,7 +1565,9 @@
     "link": "https://www.coldcasezaken.nl/tonny-ter-horst",
     "id": "tonny-ter-horst",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/tonny1.png",
-    "geoPlace": "Terborg"
+    "geoPlace": "Terborg",
+    "category": "Moord",
+    "year": 2000
   },
   {
     "lat": 51.919555,
@@ -1300,7 +1576,9 @@
     "link": "https://www.coldcasezaken.nl/amarantha-verhoeff",
     "id": "amarantha-verhoeff",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/scascbg-high-4kid7h.png?enable-io=true&enable=upscale&crop=0.8497%3A1&width=800",
-    "geoPlace": "Schiedam"
+    "geoPlace": "Schiedam",
+    "category": "Moord",
+    "year": 2000
   },
   {
     "lat": 51.806361,
@@ -1309,7 +1587,9 @@
     "link": "https://www.coldcasezaken.nl/jan-patat-groeneveld",
     "id": "jan-groeneveld",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/r2dofv/1-22.jpg?enable-io=true&enable=upscale&crop=0.8356%3A1&width=800",
-    "geoPlace": "Puttershoek"
+    "geoPlace": "Puttershoek",
+    "category": "Moord",
+    "year": 2000
   },
   {
     "lat": 52.377756,
@@ -1318,7 +1598,9 @@
     "link": "https://www.coldcasezaken.nl/hans-alfred-meijer",
     "id": "hans-alfred-meijer",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/untitled-1-12.jpg",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 2000
   },
   {
     "lat": 52.37888,
@@ -1327,7 +1609,9 @@
     "link": "https://www.coldcasezaken.nl/babylijkje-karthuizerstraat",
     "id": "een-onbekende-baby",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/jm171-121200_politienl-2673.jpg",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 2000
   },
   {
     "lat": 52.63643,
@@ -1336,7 +1620,9 @@
     "link": "https://www.coldcasezaken.nl/fabian-brands",
     "id": "fabian-brands",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-28.png",
-    "geoPlace": "Alkmaar"
+    "geoPlace": "Alkmaar",
+    "category": "Moord",
+    "year": 2001
   },
   {
     "lat": 52.195635,
@@ -1345,7 +1631,9 @@
     "link": "https://www.coldcasezaken.nl/dyora-bosgra",
     "id": "dyora-bosgra",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-60.jpg",
-    "geoPlace": "Apeldoorn"
+    "geoPlace": "Apeldoorn",
+    "category": "Moord",
+    "year": 2001
   },
   {
     "lat": 51.213612,
@@ -1354,7 +1642,9 @@
     "link": "https://www.coldcasezaken.nl/ringo-deman",
     "id": "ringo-deman",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-3-1.jpg",
-    "geoPlace": "Oostende"
+    "geoPlace": "Oostende",
+    "category": "Vermissing",
+    "year": 2001
   },
   {
     "lat": 51.882969,
@@ -1363,7 +1653,9 @@
     "link": "https://www.coldcasezaken.nl/maartje-mariska-klompenhouwer",
     "id": "mariska-klompenhouwer",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/ysi5ug/1-185.jpg?enable-io=true&enable=upscale&crop=0.9875%3A1&width=800",
-    "geoPlace": "Rotterdam"
+    "geoPlace": "Rotterdam",
+    "category": "Moord",
+    "year": 2001
   },
   {
     "lat": 51.938272,
@@ -1371,7 +1663,9 @@
     "title": "De vermissing van Geertje Vliegenthart 2001",
     "link": "Edmond van Hellenraadstraat Geertje Vliegenthart",
     "id": "geertje-vliegenthart",
-    "geoPlace": "Rotterdam"
+    "geoPlace": "Rotterdam",
+    "category": "Vermissing",
+    "year": 2001
   },
   {
     "lat": 50.957989,
@@ -1380,7 +1674,9 @@
     "link": "https://www.coldcasezaken.nl/tino-pokrivac",
     "id": "tino-pokrivac",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/483997031_29175894475328182_8507132488251360117_n-high-n68ra1.png?enable-io=true&enable=upscale&crop=0.6794%3A1&width=800",
-    "geoPlace": "Maasmechelen"
+    "geoPlace": "Maasmechelen",
+    "category": "Vermissing",
+    "year": 2001
   },
   {
     "lat": 52.067092,
@@ -1389,7 +1685,9 @@
     "link": "https://www.coldcasezaken.nl/meryem-ulusoy",
     "id": "meryem-ulusoy",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/o59eat/1-101.jpg?enable-io=true&enable=upscale&crop=0.7557%3A1&width=800",
-    "geoPlace": "Den Haag"
+    "geoPlace": "Den Haag",
+    "category": "Vermissing",
+    "year": 2001
   },
   {
     "lat": 51.658913,
@@ -1397,7 +1695,8 @@
     "title": "De moord op Ingrid hakkert 2001",
     "link": "https://www.coldcasezaken.nl/ingrid-hakkert",
     "id": "ingrid-hakkert-2",
-    "geoPlace": "Den Dungen"
+    "geoPlace": "Den Dungen",
+    "category": "Moord"
   },
   {
     "lat": 50.937679,
@@ -1406,7 +1705,9 @@
     "link": "https://www.coldcasezaken.nl/ilona-quaedflieg",
     "id": "ilona-quaedflieg",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/67162633_640171286467240_3481722574306541568_n.jpg",
-    "geoPlace": "Brunssum"
+    "geoPlace": "Brunssum",
+    "category": "Moord",
+    "year": 2001
   },
   {
     "lat": 52.226391,
@@ -1415,7 +1716,9 @@
     "link": "https://www.coldcasezaken.nl/wendy-whitehead",
     "id": "wendy-whitehead",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/wendy-whitehead1-standard.jpg",
-    "geoPlace": "Hilversum"
+    "geoPlace": "Hilversum",
+    "category": "Vermissing",
+    "year": 2001
   },
   {
     "lat": 52.21185,
@@ -1424,7 +1727,9 @@
     "link": "https://www.coldcasezaken.nl/martien-van-der-meijs",
     "id": "martien-van-der-meijs",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-76.jpg",
-    "geoPlace": "Hilversum"
+    "geoPlace": "Hilversum",
+    "category": "Moord",
+    "year": 2002
   },
   {
     "lat": 51.967341,
@@ -1433,7 +1738,9 @@
     "link": "https://www.coldcasezaken.nl/seyhmus-elmas",
     "id": "seyhmus-elmas",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/eyhmuselmascinayeti.png",
-    "geoPlace": "Arnhem"
+    "geoPlace": "Arnhem",
+    "category": "Moord",
+    "year": 2002
   },
   {
     "lat": 51.915333,
@@ -1442,7 +1749,9 @@
     "link": "https://www.coldcasezaken.nl/cornelis-speksnijder",
     "id": "cornelis-speksnijder",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/79c5a6_e521b10caedd4a619ba1c26a0c5d3c58_mv2.jpg",
-    "geoPlace": "Krimpen aan den IJssel"
+    "geoPlace": "Krimpen aan den IJssel",
+    "category": "Moord",
+    "year": 2002
   },
   {
     "lat": 53.239012,
@@ -1451,7 +1760,9 @@
     "link": "https://www.coldcasezaken.nl/onbekende-man-boterdiep",
     "id": "de-overblijfselen-van-onbekende-dode-man",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/02010067p1-high.jpg?enable-io=true&enable=upscale&crop=0.8004%3A1&width=800",
-    "geoPlace": "Groningen"
+    "geoPlace": "Groningen",
+    "category": "Onbekende doden",
+    "year": 2002
   },
   {
     "lat": 4.467678,
@@ -1460,7 +1771,9 @@
     "link": "https://www.coldcasezaken.nl/carel-jan-van-wezel",
     "id": "carel-jan-van-wezel",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/asset_w77ut6fk2wmnhgtgb18bk3un_create-a-photorealistic-photo-of-this-person-female-35-years-old-brown-long-hair-caucasian-preserve-all-shapes-and-imperfections-so-that-he-remains-recognizable-transform-the-dr-high-8m9qzi.png?enable-io=true&enable=upscale&crop=0.8052%3A1&width=800",
-    "geoPlace": "Maleisie"
+    "geoPlace": "Maleisie",
+    "category": "Vermissing",
+    "year": 2003
   },
   {
     "lat": 52.460168,
@@ -1469,7 +1782,9 @@
     "link": "https://www.coldcasezaken.nl/annie-visman-venema",
     "id": "annie-visman-venema",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/annie-visman-venema.jpg",
-    "geoPlace": "IJmuiden"
+    "geoPlace": "IJmuiden",
+    "category": "Moord",
+    "year": 2003
   },
   {
     "lat": 51.835884,
@@ -1478,7 +1793,9 @@
     "link": "https://www.coldcasezaken.nl/jeanette-derksen",
     "id": "jeanette-derksen",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-93.jpg",
-    "geoPlace": "Vuren"
+    "geoPlace": "Vuren",
+    "category": "Moord",
+    "year": 2003
   },
   {
     "lat": 52.338073,
@@ -1487,7 +1804,9 @@
     "link": "https://www.coldcasezaken.nl/deborah-rosiek",
     "id": "deborah-rosiek",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/deborah-rosiek-high.jpg?enable-io=true&enable=upscale&crop=0.6668%3A1&width=800",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Vermissing",
+    "year": 2003
   },
   {
     "lat": 52.385175,
@@ -1496,7 +1815,9 @@
     "link": "https://www.coldcasezaken.nl/judy-pineda",
     "id": "judy-pineda",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/12401.jpg",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 2003
   },
   {
     "lat": 52.631581,
@@ -1505,7 +1826,9 @@
     "link": "https://www.coldcasezaken.nl/mark-kerssens",
     "id": "mark-kerssens",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/mark-kerssens.jpg",
-    "geoPlace": "Alkmaar"
+    "geoPlace": "Alkmaar",
+    "category": "Moord",
+    "year": 2003
   },
   {
     "lat": 50.889642,
@@ -1514,7 +1837,9 @@
     "link": "https://www.coldcasezaken.nl/samira-van-de-wal",
     "id": "samira-van-de-wal",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/vq7yrf/76607569_722402404910794_3841337969797496832_n.jpg?enable-io=true&enable=upscale&crop=0.6848%3A1&width=800",
-    "geoPlace": "Heerlen"
+    "geoPlace": "Heerlen",
+    "category": "Moord",
+    "year": 2003
   },
   {
     "lat": 51.171205,
@@ -1523,7 +1848,9 @@
     "link": "https://www.coldcasezaken.nl/piet-mergelsberg",
     "id": "piet-mergelsberg",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-20.jpg",
-    "geoPlace": "Roermond"
+    "geoPlace": "Roermond",
+    "category": "Moord",
+    "year": 2003
   },
   {
     "lat": 51.39424,
@@ -1532,7 +1859,9 @@
     "link": "https://www.coldcasezaken.nl/bernie-bersch",
     "id": "bernie-bersch",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/female-id-unknown-hi.png",
-    "geoPlace": "Venlo"
+    "geoPlace": "Venlo",
+    "category": "Moord",
+    "year": 2003
   },
   {
     "lat": 51.913934,
@@ -1541,7 +1870,9 @@
     "link": "https://www.coldcasezaken.nl/alaaddin-olcer",
     "id": "alaaddin-olcer",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/alaaddin-olcer.jpg",
-    "geoPlace": "Schiedam"
+    "geoPlace": "Schiedam",
+    "category": "Moord",
+    "year": 2003
   },
   {
     "lat": 51.891639,
@@ -1550,7 +1881,9 @@
     "link": "https://www.coldcasezaken.nl/muhammed-erdogan",
     "id": "muhammed-erdogan",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-87.jpg",
-    "geoPlace": "Rotterdam"
+    "geoPlace": "Rotterdam",
+    "category": "Moord",
+    "year": 2003
   },
   {
     "lat": 53.036707,
@@ -1559,7 +1892,9 @@
     "link": "https://www.coldcasezaken.nl/fokko-werkman",
     "id": "fokko-werkman",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-1-1.jpg",
-    "geoPlace": "Haule"
+    "geoPlace": "Haule",
+    "category": "Moord",
+    "year": 2003
   },
   {
     "lat": 53.212007,
@@ -1568,7 +1903,9 @@
     "link": "https://www.coldcasezaken.nl/ben-stubbe",
     "id": "ben-stubbe",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-104.jpg",
-    "geoPlace": "Groningen"
+    "geoPlace": "Groningen",
+    "category": "Moord",
+    "year": 2003
   },
   {
     "lat": 52.397335,
@@ -1577,7 +1914,9 @@
     "link": "https://www.coldcasezaken.nl/cornelia-brielsman",
     "id": "cornelia-brielsman",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/456502568_1652473231963551_3610280528908450163_n-high.png?enable-io=true&enable=upscale&crop=1.2989%3A1&width=800",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 2004
   },
   {
     "lat": 52.326303,
@@ -1586,7 +1925,9 @@
     "link": "https://www.coldcasezaken.nl/rhea-ann-mattice",
     "id": "rhea-ann-mattice",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-62.png",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 2004
   },
   {
     "lat": 50.897623,
@@ -1595,7 +1936,9 @@
     "link": "https://www.coldcasezaken.nl/isabelle-pongs",
     "id": "isabelle-pongs",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-200.jpg",
-    "geoPlace": "Landgraaf"
+    "geoPlace": "Landgraaf",
+    "category": "Moord",
+    "year": 2004
   },
   {
     "lat": 50.856629,
@@ -1604,7 +1947,9 @@
     "link": "https://www.coldcasezaken.nl/sjef-leukel",
     "id": "sjef-leukel",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/m5v0rp/1-222.jpg?enable-io=true&enable=upscale&crop=0.6078%3A1&width=800",
-    "geoPlace": "Berg en Terblijt"
+    "geoPlace": "Berg en Terblijt",
+    "category": "Moord",
+    "year": 2004
   },
   {
     "lat": 52.361834,
@@ -1613,7 +1958,9 @@
     "link": "https://www.coldcasezaken.nl/jan-van-der-pool",
     "id": "jan-van-der-pool",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-85.jpg",
-    "geoPlace": "Zwanenburg"
+    "geoPlace": "Zwanenburg",
+    "category": "Moord",
+    "year": 2004
   },
   {
     "lat": 52.372541,
@@ -1622,7 +1969,9 @@
     "link": "https://www.coldcasezaken.nl/nung-lung-withoon-richtert",
     "id": "nung-lung-withoon-richtert",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/untitled-1-21.jpg",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 2004
   },
   {
     "lat": 52.20279,
@@ -1631,7 +1980,9 @@
     "link": "https://www.coldcasezaken.nl/selma-ameziane",
     "id": "arhimou-selma-ameziane",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/arhimou_ameziane-standard.webp",
-    "geoPlace": "Mijdrecht"
+    "geoPlace": "Mijdrecht",
+    "category": "Vermissing",
+    "year": 2004
   },
   {
     "lat": 52.295603,
@@ -1640,7 +1991,9 @@
     "link": "https://www.coldcasezaken.nl/anton-van-tienhoven",
     "id": "anton-van-tienhoven",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/qm28ru/1-175.jpg?enable-io=true&enable=upscale&crop=0.9057%3A1&width=800",
-    "geoPlace": "Amstelveen"
+    "geoPlace": "Amstelveen",
+    "category": "Moord",
+    "year": 2004
   },
   {
     "lat": 50.981008,
@@ -1649,7 +2002,9 @@
     "link": "https://www.coldcasezaken.nl/henri-nieboer",
     "id": "henri-nieboer",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/nieboer-high.jpg?enable-io=true&enable=upscale&crop=0.9052%3A1%2Coffset-x42&width=800",
-    "geoPlace": "Geleen"
+    "geoPlace": "Geleen",
+    "category": "Moord",
+    "year": 2005
   },
   {
     "lat": 51.93101,
@@ -1658,7 +2013,9 @@
     "link": "https://www.coldcasezaken.nl/cornelis-regter",
     "id": "cornelis-regter",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-67.jpg",
-    "geoPlace": "Rotterdam"
+    "geoPlace": "Rotterdam",
+    "category": "Moord",
+    "year": 2005
   },
   {
     "lat": 52.099823,
@@ -1667,7 +2024,9 @@
     "link": "https://www.coldcasezaken.nl/ger-oma-bindi",
     "id": "ger-oma-bindi",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-65.jpg",
-    "geoPlace": "Utrecht"
+    "geoPlace": "Utrecht",
+    "category": "Moord",
+    "year": 2005
   },
   {
     "lat": 52.367028,
@@ -1676,7 +2035,9 @@
     "link": "https://www.coldcasezaken.nl/damien-mooney",
     "id": "damien-mooney",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-33.jpg",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 2005
   },
   {
     "lat": 51.928202,
@@ -1685,7 +2046,9 @@
     "link": "https://www.coldcasezaken.nl/caroline-van-toledo",
     "id": "caroline-van-toledo",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-155.jpg",
-    "geoPlace": "Oostvoorne"
+    "geoPlace": "Oostvoorne",
+    "category": "Moord",
+    "year": 2005
   },
   {
     "lat": 52.145614,
@@ -1694,7 +2057,9 @@
     "link": "https://www.coldcasezaken.nl/hendrik-wildeman",
     "id": "henk-wildeman",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/5060636p1-standard.jpg",
-    "geoPlace": "Beekbergen"
+    "geoPlace": "Beekbergen",
+    "category": "Vermissing",
+    "year": 2005
   },
   {
     "lat": 50.477686,
@@ -1703,7 +2068,9 @@
     "link": "https://www.coldcasezaken.nl/tamara-morris",
     "id": "tamara-morris",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-177.jpg",
-    "geoPlace": "Soheit-Tinlot"
+    "geoPlace": "Soheit-Tinlot",
+    "category": "Moord",
+    "year": 2006
   },
   {
     "lat": 52.841922,
@@ -1712,7 +2079,9 @@
     "link": "https://www.coldcasezaken.nl/daniel-hilbrands",
     "id": "daniel-hilbrands",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-256.jpg",
-    "geoPlace": "Coevorden"
+    "geoPlace": "Coevorden",
+    "category": "Moord",
+    "year": 2006
   },
   {
     "lat": 51.22701,
@@ -1721,7 +2090,9 @@
     "link": "https://www.coldcasezaken.nl/ann-bourgoin",
     "id": "ann-bourgoin",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-196.jpg",
-    "geoPlace": "Antwerpen"
+    "geoPlace": "Antwerpen",
+    "category": "Moord",
+    "year": 2006
   },
   {
     "lat": 50.445063,
@@ -1730,7 +2101,9 @@
     "link": "https://www.coldcasezaken.nl/claude-mahieu",
     "id": "claude-mahieu",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/2-61.jpg",
-    "geoPlace": "Bergen"
+    "geoPlace": "Bergen",
+    "category": "Moord",
+    "year": 2006
   },
   {
     "lat": 52.113727,
@@ -1739,7 +2112,9 @@
     "link": "https://www.coldcasezaken.nl/renee-van-utrecht",
     "id": "een-onbekend-babylijkje",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-130.jpg",
-    "geoPlace": "Utrecht"
+    "geoPlace": "Utrecht",
+    "category": "Overige",
+    "year": 2006
   },
   {
     "lat": 51.707596,
@@ -1748,7 +2123,9 @@
     "link": "https://www.coldcasezaken.nl/engeltje-van-het-meer",
     "id": "een-onbekend-babylijkje-2",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/n867j7/2-81.jpg?enable-io=true&enable=upscale&crop=0.8078%3A1&width=800",
-    "geoPlace": "'s-Hertogenbosch"
+    "geoPlace": "'s-Hertogenbosch",
+    "category": "Overige",
+    "year": 2006
   },
   {
     "lat": 52.031722,
@@ -1757,7 +2134,9 @@
     "link": "https://www.coldcasezaken.nl/maarten-redeker",
     "id": "maarten-redeker",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-91.jpg",
-    "geoPlace": "Den Haag"
+    "geoPlace": "Den Haag",
+    "category": "Moord",
+    "year": 2007
   },
   {
     "lat": 52.401016,
@@ -1766,7 +2145,9 @@
     "link": "https://www.coldcasezaken.nl/cassandra-van-schaijk",
     "id": "cassandra-van-schaijk",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-109.jpg",
-    "geoPlace": "Almere"
+    "geoPlace": "Almere",
+    "category": "Moord",
+    "year": 2007
   },
   {
     "lat": 52.078219,
@@ -1775,7 +2156,9 @@
     "link": "https://www.coldcasezaken.nl/harry-wiersinga",
     "id": "harry-wiersinga",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/ec51e6e5-813c-3fe4-831e-ad7f4691b3f2.jpg",
-    "geoPlace": "Den Haag"
+    "geoPlace": "Den Haag",
+    "category": "Moord",
+    "year": 2007
   },
   {
     "lat": 53.220727,
@@ -1784,7 +2167,8 @@
     "link": "https://www.coldcasezaken.nl/roeland-oosten",
     "id": "roeland-oosten",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/j6oduh/1-157.jpg?enable-io=true&enable=upscale&crop=0.6735%3A1&width=800",
-    "geoPlace": "Groningen"
+    "geoPlace": "Groningen",
+    "category": "Moord"
   },
   {
     "lat": 52.228085,
@@ -1793,7 +2177,9 @@
     "link": "https://www.coldcasezaken.nl/kim-veerman",
     "id": "kim-veerman",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/2-31.jpg",
-    "geoPlace": "Hilversum"
+    "geoPlace": "Hilversum",
+    "category": "Moord",
+    "year": 2007
   },
   {
     "lat": 51.491449,
@@ -1802,7 +2188,9 @@
     "link": "https://www.coldcasezaken.nl/theo-van-berlo",
     "id": "theo-van-berlo",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/2a6691/1-212.jpg?enable-io=true&enable=upscale&crop=0.8623%3A1%2Coffset-y0&width=800",
-    "geoPlace": "Helmond"
+    "geoPlace": "Helmond",
+    "category": "Moord",
+    "year": 2007
   },
   {
     "lat": 51.973651,
@@ -1811,7 +2199,9 @@
     "link": "https://www.coldcasezaken.nl/onbekende-man-staelduinse-bos",
     "id": "een-onbekende-dode-man",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/pko42v/7151060p1.jpg?enable-io=true&enable=upscale&crop=0.6778%3A1%2Coffset-x29&width=800",
-    "geoPlace": "'s-Gravenzande"
+    "geoPlace": "'s-Gravenzande",
+    "category": "Onbekende doden",
+    "year": 2007
   },
   {
     "lat": 51.505851,
@@ -1820,7 +2210,9 @@
     "link": "https://www.coldcasezaken.nl/rosa-maria-venda-da-silva",
     "id": "rosa-maria-da-silvav",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-81.jpg",
-    "geoPlace": "Bakel"
+    "geoPlace": "Bakel",
+    "category": "Vermissing",
+    "year": 2008
   },
   {
     "lat": 51.567104,
@@ -1829,7 +2221,9 @@
     "link": "https://www.coldcasezaken.nl/james-patrick-grealis",
     "id": "james-patrick-grealis",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/448676220_7684351431661007_5411573287690175578_n-high.jpg?enable-io=true&enable=upscale&crop=0.8077%3A1&width=800",
-    "geoPlace": "Breda"
+    "geoPlace": "Breda",
+    "category": "Vermissing",
+    "year": 2008
   },
   {
     "lat": 52.310113,
@@ -1838,7 +2232,9 @@
     "link": "https://www.coldcasezaken.nl/diana-winkel",
     "id": "diana-winkel",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/gna98c/1-6.jpg?enable-io=true&enable=upscale&crop=1.0498%3A1%2Coffset-y38&width=800",
-    "geoPlace": "Oldenzaal"
+    "geoPlace": "Oldenzaal",
+    "category": "Moord",
+    "year": 2008
   },
   {
     "lat": 52.374303,
@@ -1847,7 +2243,9 @@
     "link": "https://www.coldcasezaken.nl/bernadett-szabo",
     "id": "bernadett-szabo",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/462553593_1622732771978779_4291759616688912269_n-high.png?enable-io=true&enable=upscale&crop=0.9569%3A1&width=800",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 2008
   },
   {
     "lat": 50.878846,
@@ -1856,7 +2254,9 @@
     "link": "https://www.coldcasezaken.nl/rein-weehuizen",
     "id": "rein-weehuizen",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-61.jpg",
-    "geoPlace": "Meerssen"
+    "geoPlace": "Meerssen",
+    "category": "Moord",
+    "year": 2009
   },
   {
     "lat": 52.103192,
@@ -1865,7 +2265,9 @@
     "link": "https://www.coldcasezaken.nl/robin-van-clingendael",
     "id": "onbekende-babylijkje-robin-van-clingendael",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-3.jpg",
-    "geoPlace": "Wassenaar"
+    "geoPlace": "Wassenaar",
+    "category": "Overige",
+    "year": 2009
   },
   {
     "lat": 50.348353,
@@ -1874,7 +2276,9 @@
     "link": "https://www.coldcasezaken.nl/anne-beckmann",
     "id": "anne-beckmann",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-206.jpg",
-    "geoPlace": "Thuin"
+    "geoPlace": "Thuin",
+    "category": "Moord",
+    "year": 2009
   },
   {
     "lat": 51.218997,
@@ -1883,7 +2287,9 @@
     "link": "https://www.coldcasezaken.nl/dan-dielis",
     "id": "dan-dielis",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/https___static-_1_.jpg",
-    "geoPlace": "Antwerpen"
+    "geoPlace": "Antwerpen",
+    "category": "Moord",
+    "year": 2009
   },
   {
     "lat": 53.208381,
@@ -1892,7 +2298,9 @@
     "link": "https://www.coldcasezaken.nl/marian-kusters",
     "id": "marian-kusters",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-171.jpg",
-    "geoPlace": "Groningen"
+    "geoPlace": "Groningen",
+    "category": "Vermissing",
+    "year": 2009
   },
   {
     "lat": 52.958144,
@@ -1901,7 +2309,9 @@
     "link": "https://www.coldcasezaken.nl/christiaan-weststeijn",
     "id": "christiaan-weststeijn",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/christiaan-willem-weststeijn-high.jpg?enable-io=true&enable=upscale&crop=0.8631%3A1&width=800",
-    "geoPlace": "Den Helder"
+    "geoPlace": "Den Helder",
+    "category": "Vermissing",
+    "year": 2010
   },
   {
     "lat": 51.927269,
@@ -1910,7 +2320,9 @@
     "link": "https://www.coldcasezaken.nl/sandra-martinez-burbano",
     "id": "sandra-martinez-burbano",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/ta3kfr/image-44.png?enable-io=true&enable=upscale&crop=0.7763%3A1&width=800",
-    "geoPlace": "Rotterdam"
+    "geoPlace": "Rotterdam",
+    "category": "Moord",
+    "year": 2010
   },
   {
     "lat": 51.387226,
@@ -1919,7 +2331,9 @@
     "link": "https://www.coldcasezaken.nl/herman-ploegstra",
     "id": "herman-ploegstra",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/w7u8s8/1-147.jpg?enable-io=true&enable=upscale&crop=0.7242%3A1&width=800",
-    "geoPlace": "Breskens"
+    "geoPlace": "Breskens",
+    "category": "Vermissing",
+    "year": 2010
   },
   {
     "lat": 50.925421,
@@ -1928,7 +2342,9 @@
     "link": "https://www.coldcasezaken.nl/stefan-brants",
     "id": "de-mysterieuze-dood-van-stefan-brants",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-143.jpg",
-    "geoPlace": "Diepenbeek"
+    "geoPlace": "Diepenbeek",
+    "category": "Overige",
+    "year": 2010
   },
   {
     "lat": 52.060997,
@@ -1937,7 +2353,9 @@
     "link": "https://www.coldcasezaken.nl/yvonne-beer",
     "id": "yvonne-beer",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-23.png",
-    "geoPlace": "Zoetermeer"
+    "geoPlace": "Zoetermeer",
+    "category": "Moord",
+    "year": 2010
   },
   {
     "lat": 51.974213,
@@ -1946,7 +2364,9 @@
     "link": "https://www.coldcasezaken.nl/ida-sjamsudin",
     "id": "ida-sjamsudin",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/ad23p6/1-244.jpg?enable-io=true&enable=upscale&crop=1.4938%3A1%2Coffset-y18&width=800",
-    "geoPlace": "Arnhem"
+    "geoPlace": "Arnhem",
+    "category": "Moord",
+    "year": 2010
   },
   {
     "lat": 51.6518,
@@ -1955,7 +2375,9 @@
     "link": "https://www.coldcasezaken.nl/heidy-goedhart",
     "id": "heidy-goedhart",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/schermopname_18-9-2025_21415_www-bing-com-standard.jpg",
-    "geoPlace": "Kaatsheuvel"
+    "geoPlace": "Kaatsheuvel",
+    "category": "Moord",
+    "year": 2010
   },
   {
     "lat": 52.018568,
@@ -1964,7 +2386,9 @@
     "link": "https://www.coldcasezaken.nl/arnold-van-buuren",
     "id": "arnold-van-buuren",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-12.png",
-    "geoPlace": "Gouda"
+    "geoPlace": "Gouda",
+    "category": "Moord",
+    "year": 2010
   },
   {
     "lat": 53.089485,
@@ -1973,7 +2397,9 @@
     "link": "https://www.coldcasezaken.nl/derk-kiers",
     "id": "derk-kiers",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/li4iy3/1-1.jpg?enable-io=true&enable=upscale&crop=0.7648%3A1&width=800",
-    "geoPlace": "Wildervank"
+    "geoPlace": "Wildervank",
+    "category": "Moord",
+    "year": 2011
   },
   {
     "lat": 52.037213,
@@ -1982,7 +2408,9 @@
     "link": "https://www.coldcasezaken.nl/cees-lieftink",
     "id": "cees-lieftink",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-106.jpg",
-    "geoPlace": "Ede"
+    "geoPlace": "Ede",
+    "category": "Moord",
+    "year": 2011
   },
   {
     "lat": 52.357596,
@@ -1991,7 +2419,9 @@
     "link": "https://www.coldcasezaken.nl/stefanie-blijd",
     "id": "stefanie-blijd",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/2-19.jpg",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Vermissing",
+    "year": 2011
   },
   {
     "lat": 50.595622,
@@ -2000,7 +2430,9 @@
     "link": "https://www.coldcasezaken.nl/christelle-sandervorst",
     "id": "christelle-sandervorst",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-14.png",
-    "geoPlace": "Verviers"
+    "geoPlace": "Verviers",
+    "category": "Moord",
+    "year": 2011
   },
   {
     "lat": 52.218735,
@@ -2009,7 +2441,9 @@
     "link": "https://www.coldcasezaken.nl/pablo-hermeler",
     "id": "pablo-hermeler",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/pablo-high-q3c54k.png?enable-io=true&enable=upscale&crop=0.811%3A1&width=800",
-    "geoPlace": "Hilversum"
+    "geoPlace": "Hilversum",
+    "category": "Moord",
+    "year": 2011
   },
   {
     "lat": 51.589879,
@@ -2018,7 +2452,9 @@
     "link": "https://www.coldcasezaken.nl/samba-fall",
     "id": "samba-fall",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-4.jpg",
-    "geoPlace": "Breda"
+    "geoPlace": "Breda",
+    "category": "Moord",
+    "year": 2011
   },
   {
     "lat": 51.824314,
@@ -2027,7 +2463,9 @@
     "link": "https://www.coldcasezaken.nl/edward-maat",
     "id": "edward-maat",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-39.png",
-    "geoPlace": "Zwijndrecht"
+    "geoPlace": "Zwijndrecht",
+    "category": "Moord",
+    "year": 2011
   },
   {
     "lat": 52.375601,
@@ -2036,7 +2474,9 @@
     "link": "https://www.coldcasezaken.nl/hennie-schellenberg",
     "id": "hennie-schellenberg",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-high-fvox0k.png?enable-io=true&enable=upscale&crop=1.4724%3A1&width=800",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 2011
   },
   {
     "lat": 52.440209,
@@ -2045,7 +2485,9 @@
     "link": "https://www.coldcasezaken.nl/herman-jansen",
     "id": "herman-jansen",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-55.png",
-    "geoPlace": "Oostzaan"
+    "geoPlace": "Oostzaan",
+    "category": "Moord",
+    "year": 2011
   },
   {
     "lat": 51.977324,
@@ -2054,7 +2496,9 @@
     "link": "https://www.coldcasezaken.nl/nelie-van-der-schouw",
     "id": "nelie-van-der-schouw",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-high-mov47o.png?enable-io=true&enable=upscale&crop=1.3446%3A1%2Coffset-y0&width=800",
-    "geoPlace": "Renkum"
+    "geoPlace": "Renkum",
+    "category": "Vermissing",
+    "year": 2011
   },
   {
     "lat": 52.73928,
@@ -2063,7 +2507,9 @@
     "link": "https://www.coldcasezaken.nl/koos-engel",
     "id": "koos-engel",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/3-20.jpg",
-    "geoPlace": "Tuitjenhorn"
+    "geoPlace": "Tuitjenhorn",
+    "category": "Moord",
+    "year": 2012
   },
   {
     "lat": 43.389336,
@@ -2072,7 +2518,9 @@
     "link": "https://www.coldcasezaken.nl/floris-dierdorp",
     "id": "floris-dierdorp",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/5206kh/image-61.png?enable-io=true&enable=upscale&crop=0.8%3A1&width=800",
-    "geoPlace": "Општина Пријепоље"
+    "geoPlace": "Општина Пријепоље",
+    "category": "Vermissing",
+    "year": 2012
   },
   {
     "lat": 51.584293,
@@ -2081,7 +2529,9 @@
     "link": "https://www.coldcasezaken.nl/sterre-van-de-laarakker",
     "id": "onbekend-babylijkje-sterre-van-de-laarakker",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/liempde2.jpg",
-    "geoPlace": "Boxtel"
+    "geoPlace": "Boxtel",
+    "category": "Overige",
+    "year": 2012
   },
   {
     "lat": 52.63683,
@@ -2090,7 +2540,9 @@
     "link": "https://www.coldcasezaken.nl/george-ilahi",
     "id": "george-ilahi",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-13.png",
-    "geoPlace": "Hoorn"
+    "geoPlace": "Hoorn",
+    "category": "Moord",
+    "year": 2012
   },
   {
     "lat": 51.769902,
@@ -2099,7 +2551,9 @@
     "link": "https://www.coldcasezaken.nl/marja-nijholt",
     "id": "marja-nijholt",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-18.png",
-    "geoPlace": "Oss"
+    "geoPlace": "Oss",
+    "category": "Moord",
+    "year": 2013
   },
   {
     "lat": 7.896177,
@@ -2108,7 +2562,9 @@
     "link": "https://www.coldcasezaken.nl/stephan-buczynski",
     "id": "stephan-bucynski",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-59.png",
-    "geoPlace": "ตำบลป่าตอง"
+    "geoPlace": "ตำบลป่าตอง",
+    "category": "Moord",
+    "year": 2013
   },
   {
     "lat": 51.772973,
@@ -2117,7 +2573,9 @@
     "link": "https://www.coldcasezaken.nl/tamara-plehn",
     "id": "tamara-plehn",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/3e1b5007-3dab-40b9-9536-8c85f3d6d3b1-high-high.jpg?enable-io=true&enable=upscale&crop=0.8369%3A1&width=800",
-    "geoPlace": "Berghem"
+    "geoPlace": "Berghem",
+    "category": "Moord",
+    "year": 2013
   },
   {
     "lat": 53.212195,
@@ -2126,7 +2584,9 @@
     "link": "https://www.coldcasezaken.nl/onke-de-boer",
     "id": "onke-de-boer",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/r5in8h/1-220.jpg?enable-io=true&enable=upscale&crop=1.3012%3A1&width=800",
-    "geoPlace": "Leeuwarden"
+    "geoPlace": "Leeuwarden",
+    "category": "Moord",
+    "year": 2013
   },
   {
     "lat": 50.63902,
@@ -2135,7 +2595,9 @@
     "link": "https://www.coldcasezaken.nl/antoine-thys",
     "id": "antoine-thys",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-198.jpg",
-    "geoPlace": "Luik"
+    "geoPlace": "Luik",
+    "category": "Moord",
+    "year": 2013
   },
   {
     "lat": 51.827752,
@@ -2144,7 +2606,9 @@
     "link": "https://www.coldcasezaken.nl/rebecca-groenendijk",
     "id": "rebecca-groenendijk",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-280.jpg",
-    "geoPlace": "Zwijndrecht"
+    "geoPlace": "Zwijndrecht",
+    "category": "Vermissing",
+    "year": 2014
   },
   {
     "lat": 51.246614,
@@ -2153,7 +2617,9 @@
     "link": "https://www.coldcasezaken.nl/germain-steven-mboyo-bombole",
     "id": "de-mysterieuze-dood-van-germain-mboyo-bombole",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/476393360_633720589141113_2470793504054675256_n-high.png?enable-io=true&enable=upscale&crop=0.9858%3A1&width=800",
-    "geoPlace": "Antwerpen"
+    "geoPlace": "Antwerpen",
+    "category": "Overige",
+    "year": 2014
   },
   {
     "lat": 51.962045,
@@ -2162,7 +2628,9 @@
     "link": "https://www.coldcasezaken.nl/tomasz-zawierucha",
     "id": "tomasz-zawierucha",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-248.jpg",
-    "geoPlace": "Rotterdam"
+    "geoPlace": "Rotterdam",
+    "category": "Moord",
+    "year": 2014
   },
   {
     "lat": 52.087127,
@@ -2171,7 +2639,8 @@
     "link": "https://www.coldcasezaken.nl/hanno-van-mil",
     "id": "hanno-van-mil",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/large-vecteezy_a-dark-room-with-a-light-at-the-top_30648142_large-high.jpg?enable-io=true&enable=upscale&crop=0.772%3A1&width=800",
-    "geoPlace": "Woudenberg"
+    "geoPlace": "Woudenberg",
+    "category": "Vermissing"
   },
   {
     "lat": 53.325778,
@@ -2180,7 +2649,9 @@
     "link": "https://www.coldcasezaken.nl/sicco-cuperus",
     "id": "sicco-cuperus",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/sicco_jan_cuperus-1.jpg",
-    "geoPlace": "Marrum"
+    "geoPlace": "Marrum",
+    "category": "Vermissing",
+    "year": 2014
   },
   {
     "lat": 52.375801,
@@ -2189,7 +2660,9 @@
     "link": "https://www.coldcasezaken.nl/sumbat-dawood-boghos",
     "id": "sumbat-dawood-boghos",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/naamloos-1-standard.jpg",
-    "geoPlace": "Almelo"
+    "geoPlace": "Almelo",
+    "category": "Moord",
+    "year": 2014
   },
   {
     "lat": 51.681515,
@@ -2198,7 +2671,9 @@
     "link": "https://www.coldcasezaken.nl/arne-hermsen",
     "id": "arne-hermsen",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-high-jl3kdw.png?enable-io=true&enable=upscale&crop=1.3034%3A1&width=800",
-    "geoPlace": "Goch"
+    "geoPlace": "Goch",
+    "category": "Vermissing",
+    "year": 2015
   },
   {
     "lat": 52.996862,
@@ -2207,7 +2682,9 @@
     "link": "https://www.coldcasezaken.nl/tom-de-munter",
     "id": "tom-de-munter",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/41de5eb8-06bb-37cd-872f-d40d86226b9b-high.jpg?enable-io=true&enable=upscale&crop=1.1931%3A1%2Coffset-x19&width=800",
-    "geoPlace": "Assen"
+    "geoPlace": "Assen",
+    "category": "Moord",
+    "year": 2015
   },
   {
     "lat": 51.839657,
@@ -2216,7 +2693,9 @@
     "link": "https://www.coldcasezaken.nl/elise-smit",
     "id": "baby-elise-smit",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/download8.jpg",
-    "geoPlace": "Papendrecht"
+    "geoPlace": "Papendrecht",
+    "category": "Moord",
+    "year": 2015
   },
   {
     "lat": 52.126785,
@@ -2225,7 +2704,9 @@
     "link": "https://www.coldcasezaken.nl/onbekende-man-vecht",
     "id": "lichaam-van-onbekende-dode-man",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/k7jozx/image-14.png?enable-io=true&enable=upscale&crop=0.8673%3A1&width=800",
-    "geoPlace": "Oud Zuilen"
+    "geoPlace": "Oud Zuilen",
+    "category": "Onbekende doden",
+    "year": 2015
   },
   {
     "lat": 52.375317,
@@ -2234,7 +2715,8 @@
     "link": "https://www.coldcasezaken.nl/susanna-boon",
     "id": "susanna-boon",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-high-xhya2n.png?enable-io=true&enable=upscale&crop=1.0863%3A1&width=800",
-    "geoPlace": "Nunspeet"
+    "geoPlace": "Nunspeet",
+    "category": "Moord"
   },
   {
     "lat": 51.488233,
@@ -2243,7 +2725,9 @@
     "link": "https://www.coldcasezaken.nl/marielle-markgraaff",
     "id": "marielle-markgraaff",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-24.jpg",
-    "geoPlace": "Helmond"
+    "geoPlace": "Helmond",
+    "category": "Moord",
+    "year": 2016
   },
   {
     "lat": 52.205887,
@@ -2252,7 +2736,9 @@
     "link": "https://www.coldcasezaken.nl/marlon-fidanque",
     "id": "marlon-fidanque",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1-107.jpg",
-    "geoPlace": "Apeldoorn"
+    "geoPlace": "Apeldoorn",
+    "category": "Moord",
+    "year": 2016
   },
   {
     "lat": 53.149115,
@@ -2261,7 +2747,9 @@
     "link": "https://www.coldcasezaken.nl/sietze-grave",
     "id": "sietze-grave",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/b88351119z.jpg",
-    "geoPlace": "Winschoten"
+    "geoPlace": "Winschoten",
+    "category": "Moord",
+    "year": 2016
   },
   {
     "lat": 52.30461,
@@ -2270,7 +2758,9 @@
     "link": "https://www.coldcasezaken.nl/rosleny-magdalena",
     "id": "rosleny-magdalena",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/j3198o/1-151.jpg?enable-io=true&enable=upscale&crop=0.9052%3A1&width=800",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 2016
   },
   {
     "lat": 45.946244,
@@ -2279,7 +2769,9 @@
     "link": "https://www.coldcasezaken.nl/viktor-jajcanin",
     "id": "viktor-jajcanin",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/ucvsir/2-84.jpg?enable-io=true&enable=upscale&crop=0.7255%3A1&width=800",
-    "geoPlace": "Općina Dubravica"
+    "geoPlace": "Općina Dubravica",
+    "category": "Moord",
+    "year": 2016
   },
   {
     "lat": 52.395009,
@@ -2288,7 +2780,9 @@
     "link": "https://www.coldcasezaken.nl/dumitru-sirbu",
     "id": "dumitru-sirbu",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/aeba8b/image-71.png?enable-io=true&enable=upscale&crop=0.9052%3A1%2Coffset-y0&width=800",
-    "geoPlace": "Haarlem"
+    "geoPlace": "Haarlem",
+    "category": "Moord",
+    "year": 2017
   },
   {
     "lat": 52.671103,
@@ -2297,7 +2791,9 @@
     "link": "https://www.coldcasezaken.nl/ralf-meinema",
     "id": "ralf-meinema",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-high-54zpxz.png?enable-io=true&enable=upscale&crop=0.6656%3A1&width=800",
-    "geoPlace": "Coevorden"
+    "geoPlace": "Coevorden",
+    "category": "Moord",
+    "year": 2017
   },
   {
     "lat": 52.749715,
@@ -2306,7 +2802,9 @@
     "link": "https://www.coldcasezaken.nl/hannie-bakker",
     "id": "hannie-bakker",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/schermopname_17-9-2025_144618_www-bing-com-high.jpg?enable-io=true&enable=upscale&crop=0.8333%3A1&width=800",
-    "geoPlace": "Winkel"
+    "geoPlace": "Winkel",
+    "category": "Moord",
+    "year": 2017
   },
   {
     "lat": 52.041625,
@@ -2315,7 +2813,9 @@
     "link": "https://www.coldcasezaken.nl/corrie-van-geesbergen",
     "id": "corrie-van-geesbergen",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/images-1-high-o9ufp2.jpg?enable-io=true&enable=upscale&crop=0.7361%3A1&width=800",
-    "geoPlace": "Den Haag"
+    "geoPlace": "Den Haag",
+    "category": "Moord",
+    "year": 2019
   },
   {
     "lat": 52.396118,
@@ -2324,7 +2824,9 @@
     "link": "https://www.coldcasezaken.nl/saban-berk",
     "id": "saban-berk",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/5e6e5ca6-48c8-46c9-92a5-d131595e05be-high.jpg?enable-io=true&enable=upscale&crop=0.7903%3A1%2Coffset-y100&width=800",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 2019
   },
   {
     "lat": 53.241768,
@@ -2333,7 +2835,9 @@
     "link": "https://www.coldcasezaken.nl/karin-grijpstra-1",
     "id": "de-mysterieuze-dood-van-karin-grijpstra",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/karin-grijpstra_high-res-high-high.jpg?enable-io=true&enable=upscale&crop=0.7505%3A1&width=800",
-    "geoPlace": "Koarnjum"
+    "geoPlace": "Koarnjum",
+    "category": "Overige",
+    "year": 2020
   },
   {
     "lat": 51.456564,
@@ -2342,7 +2846,9 @@
     "link": "https://www.coldcasezaken.nl/roshentlie-rosaria",
     "id": "roshentlie-rosaria",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-high-kfw39i.png?enable-io=true&enable=upscale&crop=1.5111%3A1%2Coffset-y0&width=800",
-    "geoPlace": "Vlissingen"
+    "geoPlace": "Vlissingen",
+    "category": "Moord",
+    "year": 2021
   },
   {
     "lat": 51.659664,
@@ -2351,7 +2857,9 @@
     "link": "https://www.coldcasezaken.nl/peter-van-dongen",
     "id": "peter-van-dongen",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/afbeelding-slachtoffer-van-dongen-standard.png",
-    "geoPlace": "Helvoirt"
+    "geoPlace": "Helvoirt",
+    "category": "Moord",
+    "year": 2022
   },
   {
     "lat": 52.054889,
@@ -2360,7 +2868,9 @@
     "link": "https://www.coldcasezaken.nl/ongeidentificeerde-doden/jane-doe-maarsbergen-heulmeisje",
     "id": "het-onbekende-heulmeisje-2",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/nl01-main-photo-1-high-xh8g3j-1-high.jpg?enable-io=true&enable=upscale&crop=0.6118%3A1&width=800",
-    "geoPlace": "Maarsbergen"
+    "geoPlace": "Maarsbergen",
+    "category": "Overige",
+    "year": 1976
   },
   {
     "lat": 52.377535,
@@ -2369,7 +2879,9 @@
     "link": "https://www.coldcasezaken.nl/ongeidentificeerde-doden/john-doe-amsterdam-nieuwezijds-voorburgwal",
     "id": "onbekende-dode-man-2",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/11131881-high.jpg?enable-io=true&enable=upscale&crop=0.7251%3A1&width=800",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Onbekende doden",
+    "year": 1986
   },
   {
     "lat": 51.599583,
@@ -2378,7 +2890,9 @@
     "link": "https://www.coldcasezaken.nl/ongeidentificeerde-doden/jane-doe-teteringen",
     "id": "een-onbekend-meisje",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/foto-ssoear-high.png?enable-io=true&enable=upscale&crop=0.3983%3A1&width=800",
-    "geoPlace": "Teteringen"
+    "geoPlace": "Teteringen",
+    "category": "Moord",
+    "year": 1990
   },
   {
     "lat": 51.408255,
@@ -2387,7 +2901,9 @@
     "link": "https://www.coldcasezaken.nl/ongeidentificeerde-doden/john-doe-sevenum",
     "id": "een-onbekende-man-5",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-standard-cuz0r8.png",
-    "geoPlace": "Kronenberg"
+    "geoPlace": "Kronenberg",
+    "category": "Moord",
+    "year": 1991
   },
   {
     "lat": 50.598193,
@@ -2396,7 +2912,9 @@
     "link": "https://www.coldcasezaken.nl/duitse-jane-doe",
     "id": "onbekende-dode-vrouw",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/nn-er-duitsland-snelweg2-high.jpg?enable-io=true&enable=upscale&crop=0.7891%3A1&width=800",
-    "geoPlace": "Neustadt (Wied)"
+    "geoPlace": "Neustadt (Wied)",
+    "category": "Onbekende doden",
+    "year": 1991
   },
   {
     "lat": 52.36471,
@@ -2405,7 +2923,9 @@
     "link": "https://www.coldcasezaken.nl/onbekende-dode-man-kinkerbrug-amsterdam",
     "id": "een-onbekende-man-6",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/dadd-standard-335u3f.png",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 1992
   },
   {
     "lat": 51.600269,
@@ -2414,7 +2934,9 @@
     "link": "https://www.coldcasezaken.nl/ongeidentificeerde-doden/john-doe-bergen",
     "id": "een-onbekende-man-7",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-high-jnyigy.png?enable-io=true&enable=upscale&crop=0.5944%3A1&width=800",
-    "geoPlace": "Bergen"
+    "geoPlace": "Bergen",
+    "category": "Moord",
+    "year": 1994
   },
   {
     "lat": 52.322485,
@@ -2423,7 +2945,9 @@
     "link": "https://www.coldcasezaken.nl/ongeidentificeerde-doden/john-doe-strandvlietpad",
     "id": "onbekende-dode-man-3",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/siergracht-standard-jkke9s.jpg",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Onbekende doden",
+    "year": 1994
   },
   {
     "lat": 52.319939,
@@ -2432,7 +2956,9 @@
     "link": "https://www.coldcasezaken.nl/ongeidentificeerde-doden/jane-doe-amstelveen",
     "id": "een-onbekende-vrouw",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/1995-01-13-nn-vrouw-uilenstede_fosmet-sieraden-standard.jpg",
-    "geoPlace": "Amstelveen"
+    "geoPlace": "Amstelveen",
+    "category": "Moord",
+    "year": 1995
   },
   {
     "lat": 52.387892,
@@ -2441,7 +2967,9 @@
     "link": "https://www.coldcasezaken.nl/ongeidentificeerde-doden/john-doe-westerdoksdijk",
     "id": "onbekende-dode-man-4",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/firefly-maak-een-serieuze-realistische-foto-afbeelding-van-een-middeleeuwse-tandarts-die-in-de-mond-1-high.jpg?enable-io=true&enable=upscale&crop=0.5887%3A1%2Coffset-x43&width=800",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Onbekende doden",
+    "year": 1995
   },
   {
     "lat": 51.24538,
@@ -2450,7 +2978,9 @@
     "link": "https://www.coldcasezaken.nl/ongeidentificeerde-doden/john-doe-lommel",
     "id": "een-onbekende-dode-man-2",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-high-gom1no.png?enable-io=true&enable=upscale&crop=0.6346%3A1%2Coffset-x36&width=800",
-    "geoPlace": "Lommel"
+    "geoPlace": "Lommel",
+    "category": "Onbekende doden",
+    "year": 1996
   },
   {
     "lat": 52.38919,
@@ -2459,7 +2989,9 @@
     "link": "https://www.coldcasezaken.nl/ongeidentificeerde-doden/john-doe-sloterdijk",
     "id": "een-onbekende-dode-man-3",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/whigh-uc4tg7-high.jpg?enable-io=true&enable=upscale&crop=0.7952%3A1&width=800",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Onbekende doden",
+    "year": 1997
   },
   {
     "lat": 52.363663,
@@ -2468,7 +3000,9 @@
     "link": "https://www.coldcasezaken.nl/ongeidentificeerde-doden/jane-doe-amsterdam-5",
     "id": "mogelijke-moord-op-onbekende-vrouw",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/lennepkade1-high.jpg?enable-io=true&enable=upscale&crop=0.7772%3A1%2Coffset-y40&width=800",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 1998
   },
   {
     "lat": 52.328551,
@@ -2477,7 +3011,9 @@
     "link": "https://www.coldcasezaken.nl/ongeidentificeerde-doden/john-doe-amstelveen",
     "id": "een-onbekende-man-8",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/bosbaan-high.jpg?enable-io=true&enable=upscale&crop=0.7297%3A1&width=800",
-    "geoPlace": "Amstelveen"
+    "geoPlace": "Amstelveen",
+    "category": "Moord",
+    "year": 1998
   },
   {
     "lat": 52.362597,
@@ -2486,7 +3022,9 @@
     "link": "https://www.coldcasezaken.nl/onbekende-man-flevopark",
     "id": "een-onbekende-man-9",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/a9tv0b/week-46-onbekende-man.jpg?enable-io=true&enable=upscale&crop=0.5682%3A1&width=800",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 1998
   },
   {
     "lat": 52.304677,
@@ -2495,7 +3033,9 @@
     "link": "https://www.coldcasezaken.nl/klikobak-moord",
     "id": "een-onbekende-vrouw-in-een-kliko",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-high-ecrkz5.png?enable-io=true&enable=upscale&crop=0.7466%3A1&width=800",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 1999
   },
   {
     "lat": 52.38071,
@@ -2504,7 +3044,9 @@
     "link": "https://www.coldcasezaken.nl/ongeidentificeerde-doden/john-doe-t-ij-amsterdam",
     "id": "een-onbekende-man-10",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/20-3-2000-amsterdam-high.jpg?enable-io=true&enable=upscale&crop=1.2238%3A1&width=800",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 2000
   },
   {
     "lat": 51.888013,
@@ -2513,7 +3055,9 @@
     "link": "https://www.coldcasezaken.nl/ongeidentificeerde-doden/john-doe-tiel",
     "id": "onbekende-dode-man-5",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/nnddd-high-nmewuu.jpg?enable-io=true&enable=upscale&crop=0.782%3A1&width=800",
-    "geoPlace": "Tiel"
+    "geoPlace": "Tiel",
+    "category": "Onbekende doden",
+    "year": 2003
   },
   {
     "lat": 52.062219,
@@ -2522,7 +3066,9 @@
     "link": "https://www.coldcasezaken.nl/ongeidentificeerde-doden/john-doe-den-haag",
     "id": "een-onbekende-man-11",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/den-haag-marktweg-1-high.jpg?enable-io=true&enable=upscale&crop=0.7381%3A1&width=800",
-    "geoPlace": "Den Haag"
+    "geoPlace": "Den Haag",
+    "category": "Moord",
+    "year": 2004
   },
   {
     "lat": 52.380124,
@@ -2531,7 +3077,9 @@
     "link": "https://www.coldcasezaken.nl/ongeidentificeerde-doden/jane-doe-ij-amsterdam",
     "id": "een-onbekende-vrouw-2",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/nl08-high.jpg?enable-io=true&enable=upscale&crop=1.3829%3A1%2Coffset-x60&width=800",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 2004
   },
   {
     "lat": 50.45635,
@@ -2540,7 +3088,9 @@
     "link": "https://www.coldcasezaken.nl/ongeidentificeerde-doden/jane-doe-namen",
     "id": "onbekende-dode-vrouw-2",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/afbeelding-van-whatsapp-op-2025-03-12-om-22-53-38_8132a500-high.jpg?enable-io=true&enable=upscale&crop=0.6303%3A1&width=800",
-    "geoPlace": "Namen"
+    "geoPlace": "Namen",
+    "category": "Onbekende doden",
+    "year": 2005
   },
   {
     "lat": 52.289608,
@@ -2549,7 +3099,9 @@
     "link": "https://www.coldcasezaken.nl/ongeidentificeerde-doden/john-doe-huizen",
     "id": "een-onbekende-dode-man-4",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/hoofdhuizen-high.jpg?enable-io=true&enable=upscale&crop=0.6403%3A1&width=800",
-    "geoPlace": "Huizen"
+    "geoPlace": "Huizen",
+    "category": "Onbekende doden",
+    "year": 2005
   },
   {
     "lat": 50.737807,
@@ -2558,7 +3110,9 @@
     "link": "https://www.coldcasezaken.nl/ongeidentificeerde-doden/jane-doe-albertkanaal-vise",
     "id": "een-onbekende-vrouw-3",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-high-qoe4qz.png?enable-io=true&enable=upscale&crop=0.7926%3A1&width=800",
-    "geoPlace": "Haccourt"
+    "geoPlace": "Haccourt",
+    "category": "Moord",
+    "year": 2009
   },
   {
     "lat": 52.43879,
@@ -2567,7 +3121,9 @@
     "link": "https://www.coldcasezaken.nl/ongeidentificeerde-doden/john-doe-westzaan",
     "id": "onbekende-dode-jongeman",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/img_2107-high.jpg?enable-io=true&enable=upscale&crop=0.6778%3A1%2Coffset-x94&width=800",
-    "geoPlace": "Westzaan"
+    "geoPlace": "Westzaan",
+    "category": "Onbekende doden",
+    "year": 2010
   },
   {
     "lat": 52.378755,
@@ -2576,7 +3132,9 @@
     "link": "https://www.coldcasezaken.nl/ongeidentificeerde-doden/john-doe-amsterdam-12",
     "id": "een-onbekende-man-12",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/lijkprinshendrikkade-high.jpg?enable-io=true&enable=upscale&crop=0.8394%3A1&width=800",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 2010
   },
   {
     "lat": 50.825385,
@@ -2585,7 +3143,9 @@
     "link": "https://www.coldcasezaken.nl/ongeidentificeerde-doden/jane-doe-pietersplas",
     "id": "een-onbekende-vrouw-4",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/maastricht-6-januari-4-high.png?enable-io=true&enable=upscale&crop=0.6608%3A1&width=800",
-    "geoPlace": "Maastricht"
+    "geoPlace": "Maastricht",
+    "category": "Moord",
+    "year": 2013
   },
   {
     "lat": 50.611801,
@@ -2594,7 +3154,9 @@
     "link": "https://www.coldcasezaken.nl/ongeidentificeerde-doden/john-doe-bij-luik",
     "id": "onbekende-dode-man-6",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-high-rxdga1.png?enable-io=true&enable=upscale&crop=1.1024%3A1%2Coffset-x19&width=800",
-    "geoPlace": "Saint-Georges-sur-Meuse"
+    "geoPlace": "Saint-Georges-sur-Meuse",
+    "category": "Onbekende doden",
+    "year": 2018
   },
   {
     "lat": 51.236189,
@@ -2603,7 +3165,9 @@
     "link": "https://www.coldcasezaken.nl/ongeidentificeerde-doden/john-doe-oostende",
     "id": "onbekende-dode-man-7",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/448223331_1161881978378257_1470707893353606511_n-high.png?enable-io=true&enable=upscale&crop=0.871%3A1&width=800",
-    "geoPlace": "Oostende"
+    "geoPlace": "Oostende",
+    "category": "Onbekende doden",
+    "year": 2019
   },
   {
     "lat": 52.358564,
@@ -2612,7 +3176,9 @@
     "link": "https://www.coldcasezaken.nl/ongeidentificeerde-doden/john-doe-torontobrug",
     "id": "onbekende-dode-man-8",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/nn-high.png?enable-io=true&enable=upscale&crop=0.6882%3A1&width=800",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Onbekende doden",
+    "year": 2022
   },
   {
     "lat": 51.751362,
@@ -2621,7 +3187,9 @@
     "link": "https://www.coldcasezaken.nl/ongeidentificeerde-doden/john-doe-nederhemert-zuid",
     "id": "een-onbekende-man-13",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/ssac-high.png?enable-io=true&enable=upscale&crop=0.6951%3A1%2Coffset-x5&width=800",
-    "geoPlace": "Wijk en Aalburg"
+    "geoPlace": "Wijk en Aalburg",
+    "category": "Moord",
+    "year": 2023
   },
   {
     "lat": 51.889545,
@@ -2630,7 +3198,9 @@
     "link": "https://www.coldcasezaken.nl/ongeidentificeerde-doden/jane-doe-waal-winssen",
     "id": "onbekende-dode-vrouw-3",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-high-megfih.png?enable-io=true&enable=upscale&crop=1.1164%3A1&width=800",
-    "geoPlace": "Beuningen"
+    "geoPlace": "Beuningen",
+    "category": "Onbekende doden",
+    "year": 2025
   },
   {
     "lat": 51.460525,
@@ -2638,7 +3208,9 @@
     "title": "De moord op Jan Kloet 1984 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "jan-kloet-1984-geen-sitedossier",
-    "geoPlace": "Vlissingen"
+    "geoPlace": "Vlissingen",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.828425,
@@ -2646,7 +3218,9 @@
     "title": "De moord op André Brilleman 1985 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "andre-brilleman-1985-geen-sitedossier",
-    "geoPlace": "Herwijnen"
+    "geoPlace": "Herwijnen",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.383783,
@@ -2654,7 +3228,9 @@
     "title": "De moord op Joanne Wilson 1985 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "joanne-wilson-1985-geen-sitedossier",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.098549,
@@ -2662,7 +3238,9 @@
     "title": "De moord op Anna Maria Kolstee-Sluiter 1986 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "anna-maria-kolstee-sluiter-1986-geen-sitedossier",
-    "geoPlace": "Leidschendam"
+    "geoPlace": "Leidschendam",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.535676,
@@ -2670,7 +3248,9 @@
     "title": "De moord op Jan en Henk van Reken 1989 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "jan-en-henk-van-reken-1989-geen-sitedossier",
-    "geoPlace": "Rijsbergen"
+    "geoPlace": "Rijsbergen",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 53.221428,
@@ -2678,7 +3258,9 @@
     "title": "De moord op Salah Tayebi 1990 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "salah-tayebi-1990-geen-sitedossier",
-    "geoPlace": "Groningen"
+    "geoPlace": "Groningen",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.078677,
@@ -2686,7 +3268,9 @@
     "title": "De moord op Ria de Vries 1990 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "ria-de-vries-1990-geen-sitedossier",
-    "geoPlace": "Otterlo"
+    "geoPlace": "Otterlo",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.363897,
@@ -2694,7 +3278,9 @@
     "title": "De moord op Roy Adkins 1990 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "roy-adkins-1990-geen-sitedossier",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.829643,
@@ -2702,7 +3288,9 @@
     "title": "De moord op Joyce Labruyère 1991 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "joyce-labruyere-1991-geen-sitedossier",
-    "geoPlace": "Appeltern"
+    "geoPlace": "Appeltern",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.076084,
@@ -2710,7 +3298,9 @@
     "title": "De moord op Rudolphine de Ranitz 1991 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "rudolphine-de-ranitz-1991-geen-sitedossier",
-    "geoPlace": "Woerden"
+    "geoPlace": "Woerden",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.452287,
@@ -2718,7 +3308,9 @@
     "title": "De moord op Jeanette van Bentum-Coers 1992 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "jeanette-van-bentum-coers-1992-geen-sitedossier",
-    "geoPlace": "Lemele"
+    "geoPlace": "Lemele",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.630716,
@@ -2726,7 +3318,9 @@
     "title": "De moord op Jaap van der Heijden 1993 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "jaap-van-der-heijden-1993-geen-sitedossier",
-    "geoPlace": "Alkmaar"
+    "geoPlace": "Alkmaar",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.938455,
@@ -2734,7 +3328,9 @@
     "title": "De moord op Johan van den Bosch 1993 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "johan-van-den-bosch-1993-geen-sitedossier",
-    "geoPlace": "Rotterdam"
+    "geoPlace": "Rotterdam",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.919818,
@@ -2742,7 +3338,9 @@
     "title": "De moord op Helio Stewart 1993 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "helio-stewart-1993-geen-sitedossier",
-    "geoPlace": "Schiedam"
+    "geoPlace": "Schiedam",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.091606,
@@ -2750,7 +3348,9 @@
     "title": "De moord op Robert Willem van den Berg 1994 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "robert-willem-van-den-berg-1994-geen-sitedossier",
-    "geoPlace": "Den Haag"
+    "geoPlace": "Den Haag",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.545375,
@@ -2758,7 +3358,9 @@
     "title": "De moord op Antonio Brizzi 1994 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "antonio-brizzi-1994-geen-sitedossier",
-    "geoPlace": "Moergestel"
+    "geoPlace": "Moergestel",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.045395,
@@ -2766,7 +3368,9 @@
     "title": "De moord op Nazim Isik 1994 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "nazim-isik-1994-geen-sitedossier",
-    "geoPlace": "Den Haag"
+    "geoPlace": "Den Haag",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.153094,
@@ -2774,7 +3378,9 @@
     "title": "De moord op Ricky Hok A Hin 1994 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "ricky-hok-a-hin-1994-geen-sitedossier",
-    "geoPlace": "Amersfoort"
+    "geoPlace": "Amersfoort",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.435756,
@@ -2782,7 +3388,9 @@
     "title": "De moord op Sahin Adhami 1995 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "sahin-adhami-1995-geen-sitedossier",
-    "geoPlace": "Zaandam"
+    "geoPlace": "Zaandam",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 53.214386,
@@ -2790,7 +3398,9 @@
     "title": "De moord op Antoinette Bont 1995 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "antoinette-bont-1995-geen-sitedossier",
-    "geoPlace": "Groningen"
+    "geoPlace": "Groningen",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.370879,
@@ -2798,7 +3408,9 @@
     "title": "De moord op Bert Bons 1996 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "bert-bons-1996-geen-sitedossier",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 48.694194,
@@ -2806,7 +3418,9 @@
     "title": "De moord op Caroline Pino 1996 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "caroline-pino-1996-geen-sitedossier",
-    "geoPlace": "Orsay"
+    "geoPlace": "Orsay",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.357061,
@@ -2814,7 +3428,9 @@
     "title": "De moord op Chris van de Werken 1996 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "chris-van-de-werken-1996-geen-sitedossier",
-    "geoPlace": "Nunspeet"
+    "geoPlace": "Nunspeet",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.828512,
@@ -2822,7 +3438,9 @@
     "title": "De moord op Piet Baams 1996 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "piet-baams-1996-geen-sitedossier",
-    "geoPlace": "Gorinchem"
+    "geoPlace": "Gorinchem",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 53.229991,
@@ -2830,7 +3448,9 @@
     "title": "Shirley Hereijgers 1997 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "shirley-hereijgers-1997-geen-sitedossier",
-    "geoPlace": "Groningen"
+    "geoPlace": "Groningen",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.041788,
@@ -2838,7 +3458,9 @@
     "title": "De moord op Wim Koenen 1997 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "wim-koenen-1997-geen-sitedossier",
-    "geoPlace": "Den Haag"
+    "geoPlace": "Den Haag",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.375004,
@@ -2847,7 +3469,9 @@
     "link": "https://www.coldcasezaken.nl/ina-vos",
     "id": "ina-vos",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/adobe-express-qr-code-1-high-w3sutk.png?enable-io=true&enable=upscale&crop=1.5798%3A1&width=800",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 1997
   },
   {
     "lat": 52.2281,
@@ -2855,7 +3479,9 @@
     "title": "De moord op Henk Gerritsen 1998 ",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "henk-gerritsen",
-    "geoPlace": "Apeldoorn"
+    "geoPlace": "Apeldoorn",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.532972,
@@ -2863,7 +3489,9 @@
     "title": "De moord op Polle en Frank Taminiau, Rinus den Boer en Nico van Golde 1998 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "polle-en-frank-taminiau-rinus-den-boer-en-nico-van-golde-1998-geen-sitedossier",
-    "geoPlace": "Hilvarenbeek"
+    "geoPlace": "Hilvarenbeek",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.908195,
@@ -2871,7 +3499,9 @@
     "title": "De moord op Josina Rave 1998 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "josina-rave-1998-geen-sitedossier",
-    "geoPlace": "Rotterdam"
+    "geoPlace": "Rotterdam",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.616982,
@@ -2879,7 +3509,9 @@
     "title": "De moord op Cedric Zimmerman 1999 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "cedric-zimmerman-1999-geen-sitedossier",
-    "geoPlace": "Sint Philipsland"
+    "geoPlace": "Sint Philipsland",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.382465,
@@ -2887,7 +3519,9 @@
     "title": "De moord op Sefer Yildirim 1999 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "sefer-yildirim-1999-geen-sitedossier",
-    "geoPlace": "Vijfhuizen"
+    "geoPlace": "Vijfhuizen",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.094782,
@@ -2895,7 +3529,9 @@
     "title": "De moord op Klaas Makkinje 1999 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "klaas-makkinje-1999-geen-sitedossier",
-    "geoPlace": "Utrecht"
+    "geoPlace": "Utrecht",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.131531,
@@ -2903,7 +3539,9 @@
     "title": "De moord op Hans Schonewille 1999 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "hans-schonewille-1999-geen-sitedossier",
-    "geoPlace": "Aarlanderveen"
+    "geoPlace": "Aarlanderveen",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.355948,
@@ -2911,7 +3549,9 @@
     "title": "De moord op Debora Horstman 1999 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "debora-horstman-1999-geen-sitedossier",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.64152,
@@ -2919,7 +3559,9 @@
     "title": "De moord op Willem Wijker 2000 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "willem-wijker-2000-geen-sitedossier",
-    "geoPlace": "Bergen"
+    "geoPlace": "Bergen",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.504752,
@@ -2927,7 +3569,9 @@
     "title": "De moord op Habib M'Hedhbi 2000 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "habib-m-hedhbi-2000-geen-sitedossier",
-    "geoPlace": "Lelystad"
+    "geoPlace": "Lelystad",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.568427,
@@ -2935,7 +3579,9 @@
     "title": "De moord op Sjef, Piet en Ria Verhagen 2000 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "sjef-piet-en-ria-verhagen-2000-geen-sitedossier",
-    "geoPlace": "Tilburg"
+    "geoPlace": "Tilburg",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.383225,
@@ -2943,7 +3589,9 @@
     "title": "De moord op Jan Jacobus Femer 2000 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "jan-jacobus-femer-2000-geen-sitedossier",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.331825,
@@ -2951,7 +3599,9 @@
     "title": "De moord op Sam Klepper 2000 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "sam-klepper-2000-geen-sitedossier",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.920567,
@@ -2959,7 +3609,9 @@
     "title": "De moord op Cafer Dereli 2000 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "cafer-dereli-2000-geen-sitedossier",
-    "geoPlace": "Rotterdam"
+    "geoPlace": "Rotterdam",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.295975,
@@ -2967,7 +3619,9 @@
     "title": "De moord op Abdul Majeed Khan 2001 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "abdul-majeed-khan-2001-geen-sitedossier",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.388942,
@@ -2975,7 +3629,9 @@
     "title": "De moord op Dogan Manan 2001 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "dogan-manan-2001-geen-sitedossier",
-    "geoPlace": "Venlo"
+    "geoPlace": "Venlo",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.80972,
@@ -2983,7 +3639,9 @@
     "title": "De moord op Leon Kok 2002 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "leon-kok-2002-geen-sitedossier",
-    "geoPlace": "Nijmegen"
+    "geoPlace": "Nijmegen",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 50.886434,
@@ -2992,7 +3650,9 @@
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "patrick-van-der-bolt-2002-geen-sitedossier",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/putman-high.png?enable-io=true&enable=upscale&crop=0.8148%3A1&width=800",
-    "geoPlace": "Heerlen"
+    "geoPlace": "Heerlen",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.87364,
@@ -3000,7 +3660,9 @@
     "title": "De moord op Sedar Soares 2003 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "sedar-soares-2003-geen-sitedossier",
-    "geoPlace": "Rotterdam"
+    "geoPlace": "Rotterdam",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.65756,
@@ -3008,7 +3670,9 @@
     "title": "De moord op Leon Rombouts en Manita Koenen 2003 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "leon-rombouts-en-manita-koenen-2003-geen-sitedossier",
-    "geoPlace": "Kaatsheuvel"
+    "geoPlace": "Kaatsheuvel",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.920731,
@@ -3016,7 +3680,9 @@
     "title": "De moord op Geert Raeymaeker 2003 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "geert-raeymaeker-2003-geen-sitedossier",
-    "geoPlace": "Rotterdam"
+    "geoPlace": "Rotterdam",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.331304,
@@ -3024,7 +3690,9 @@
     "title": "De moord op John Wijngaarde 2003 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "john-wijngaarde-2003-geen-sitedossier",
-    "geoPlace": "Terneuzen"
+    "geoPlace": "Terneuzen",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.349216,
@@ -3032,7 +3700,9 @@
     "title": "De moord op Bertus Lüske 2003 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "bertus-luske-2003-geen-sitedossier",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.306066,
@@ -3040,7 +3710,9 @@
     "title": "De moord op Jules Jie en vriendin 2003 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "jules-jie-en-vriendin-2003-geen-sitedossier",
-    "geoPlace": "Amstelveen"
+    "geoPlace": "Amstelveen",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.646433,
@@ -3048,7 +3720,9 @@
     "title": "De moord op Martin Hoogland 2004 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "martin-hoogland-2004-geen-sitedossier",
-    "geoPlace": "Hoorn"
+    "geoPlace": "Hoorn",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.367986,
@@ -3056,7 +3730,9 @@
     "title": "De moord op Gijs van Dam jr.2004 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "gijs-van-dam-jr-2004-geen-sitedossier",
-    "geoPlace": "Zandvoort"
+    "geoPlace": "Zandvoort",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.369461,
@@ -3064,7 +3740,9 @@
     "title": "De moord op Bulent Derendeli 2004 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "bulent-derendeli-2004-geen-sitedossier",
-    "geoPlace": "Venlo"
+    "geoPlace": "Venlo",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.340823,
@@ -3072,7 +3750,9 @@
     "title": "De moord op Nordin Ben Salah 2004 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "nordin-ben-salah-2004-geen-sitedossier",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.3506,
@@ -3080,7 +3760,9 @@
     "title": "De moord op Willem Endstra 2004 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "willem-endstra-2004-geen-sitedossier",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.348848,
@@ -3088,7 +3770,9 @@
     "title": "De moord op Evert Hingst 2005 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "evert-hingst-2005-geen-sitedossier",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.332561,
@@ -3096,7 +3780,9 @@
     "title": "De moord op George van Kleef 2005 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "george-van-kleef-2005-geen-sitedossier",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.359494,
@@ -3104,7 +3790,9 @@
     "title": "De moord op Jacques Versnel 2005 (geen sitedossier",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "jacques-versnel-2005-geen-sitedossier",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.588935,
@@ -3112,7 +3800,9 @@
     "title": "De moord op Hakki Adnan Yesilkagit 2006 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "hakki-adnan-yesilkagit-2006-geen-sitedossier",
-    "geoPlace": "Tilburg"
+    "geoPlace": "Tilburg",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.918814,
@@ -3120,7 +3810,9 @@
     "title": "De moord op Karim Bouhmala en Sabah El Fadili 2006 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "karim-bouhmala-en-sabah-el-fadili-2006-geen-sitedossier",
-    "geoPlace": "Rotterdam"
+    "geoPlace": "Rotterdam",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.120631,
@@ -3128,7 +3820,9 @@
     "title": "De moord op Tamara Wolvers 2006 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "tamara-wolvers-2006-geen-sitedossier",
-    "geoPlace": "Alphen aan den Rijn"
+    "geoPlace": "Alphen aan den Rijn",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.062183,
@@ -3136,7 +3830,9 @@
     "title": "De moord op Anandkoemar Koebar en Claudia Yvette Edoo 2006 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "anandkoemar-koebar-en-claudia-yvette-edoo-2006-geen-sitedossier",
-    "geoPlace": "Den Haag"
+    "geoPlace": "Den Haag",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.312829,
@@ -3144,7 +3840,9 @@
     "title": "De moord op Nermin Kutlu 2006 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "nermin-kutlu-2006-geen-sitedossier",
-    "geoPlace": "Terneuzen"
+    "geoPlace": "Terneuzen",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.99153,
@@ -3152,7 +3850,9 @@
     "title": "De moord op Jacobus Drevijn 2007 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "jacobus-drevijn-2007-geen-sitedossier",
-    "geoPlace": "Delft"
+    "geoPlace": "Delft",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.501428,
@@ -3160,7 +3860,9 @@
     "title": "De moord op Sheikmoes Sindy 2007 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "sheikmoes-sindy-2007-geen-sitedossier",
-    "geoPlace": "Schijf"
+    "geoPlace": "Schijf",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.891033,
@@ -3168,7 +3870,9 @@
     "title": "De moord op Ahmad Al-Saidy 2007 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "ahmad-al-saidy-2007-geen-sitedossier",
-    "geoPlace": "Rotterdam"
+    "geoPlace": "Rotterdam",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.061283,
@@ -3176,7 +3880,9 @@
     "title": "De moord op Tineke Verhagen 2007 (geen sidedossier",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "tineke-verhagen-2007-geen-sidedossier",
-    "geoPlace": "Den Haag"
+    "geoPlace": "Den Haag",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 53.201202,
@@ -3184,7 +3890,9 @@
     "title": "De moord op Tevfik Igli 2008 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "tevfik-igli-2008-geen-sitedossier",
-    "geoPlace": "Leeuwarden"
+    "geoPlace": "Leeuwarden",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.845812,
@@ -3192,7 +3900,9 @@
     "title": "De moord op Ida Klijnstra 2008 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "ida-klijnstra-2008-geen-sitedossier",
-    "geoPlace": "De Blesse"
+    "geoPlace": "De Blesse",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.454678,
@@ -3200,7 +3910,9 @@
     "title": "De moord op Ilonka Toth 2008 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "ilonka-toth-2008-geen-sitedossier",
-    "geoPlace": "Vlissingen"
+    "geoPlace": "Vlissingen",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.332029,
@@ -3208,7 +3920,9 @@
     "title": "De moord op August Adjoeba 2008 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "august-adjoeba-2008-geen-sitedossier",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.454371,
@@ -3216,7 +3930,9 @@
     "title": "De moord op Fred Ruijzenaars 2008 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "fred-ruijzenaars-2008-geen-sitedossier",
-    "geoPlace": "Eindhoven"
+    "geoPlace": "Eindhoven",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.358096,
@@ -3224,7 +3940,9 @@
     "title": "De moord op Robert Woei a Tsoi 2008 (geen sitedosser) ",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "robert-woei-a-tsoi-2008-geen-sitedosser",
-    "geoPlace": "Merksplas"
+    "geoPlace": "Merksplas",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.280466,
@@ -3233,7 +3951,9 @@
     "link": "https://www.coldcasezaken.nl/daan-van-es",
     "id": "daan-van-es",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/sssa-high.png?enable-io=true&enable=upscale&crop=0.8361%3A1%2Coffset-y10&width=800",
-    "geoPlace": "Nederweert"
+    "geoPlace": "Nederweert",
+    "category": "Moord",
+    "year": 2009
   },
   {
     "lat": 52.664243,
@@ -3241,7 +3961,9 @@
     "title": "De moord op Johnny Neslo 2009 (geen sitedossier",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "johnny-neslo-2009-geen-sitedossier",
-    "geoPlace": "Alkmaar"
+    "geoPlace": "Alkmaar",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.834208,
@@ -3249,7 +3971,9 @@
     "title": "De moord op Harry Schrievers 2010 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "harry-schrievers-2010-geen-sitedossier",
-    "geoPlace": "Nijmegen"
+    "geoPlace": "Nijmegen",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.340836,
@@ -3257,7 +3981,9 @@
     "title": "De moord op Stanley Hillis 2011 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "stanley-hillis-2011-geen-sitedossier",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.025795,
@@ -3265,7 +3991,9 @@
     "title": "De moord op Pieter Vos en Jaap Zillig 2011 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "pieter-vos-en-jaap-zillig-2011-geen-sitedossier",
-    "geoPlace": "Houten"
+    "geoPlace": "Houten",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.830525,
@@ -3274,7 +4002,8 @@
     "link": "https://www.coldcasezaken.nl/johan-de-waal",
     "id": "johan-de-waal",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/johan-de-waal2-high.png",
-    "geoPlace": "Boven-Hardinxveld"
+    "geoPlace": "Boven-Hardinxveld",
+    "category": "Nog controleren"
   },
   {
     "lat": 51.235308,
@@ -3282,7 +4011,9 @@
     "title": "De moord op Michaël ten Napel 2012 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "michael-ten-napel-2012-geen-sitedossier",
-    "geoPlace": "Westdorpe"
+    "geoPlace": "Westdorpe",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.829267,
@@ -3290,7 +4021,9 @@
     "title": "De moord op Kevin Amerika 2012 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "kevin-amerika-2012-geen-sitedossier",
-    "geoPlace": "Nijmegen"
+    "geoPlace": "Nijmegen",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.096528,
@@ -3298,7 +4031,9 @@
     "title": "De moord op Altan Soysal 2013 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "altan-soysal-2013-geen-sitedossier",
-    "geoPlace": "Utrecht"
+    "geoPlace": "Utrecht",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.377669,
@@ -3306,7 +4041,9 @@
     "title": "De moord op Aytas Goraler 2014 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "aytas-goraler-2014-geen-sitedossier",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.188309,
@@ -3314,7 +4051,9 @@
     "title": "De moord op Mohammed Alarasi 2014 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "mohammed-alarasi-2014-geen-sitedossier",
-    "geoPlace": "Amersfoort"
+    "geoPlace": "Amersfoort",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.481412,
@@ -3322,7 +4061,9 @@
     "title": "De moord op Hans Nijman 2014 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "hans-nijman-2014-geen-sitedossier",
-    "geoPlace": "Beverwijk"
+    "geoPlace": "Beverwijk",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.288164,
@@ -3330,7 +4071,9 @@
     "title": "De moord op Luana Luz Xavier 2014 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "luana-luz-xavier-2014-geen-sitedossier",
-    "geoPlace": "Amstelveen"
+    "geoPlace": "Amstelveen",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.359203,
@@ -3338,7 +4081,9 @@
     "title": "De moord op Augustine Nyantakyi 2015 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "augustine-nyantakyi-2015-geen-sitedossier",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.307142,
@@ -3346,7 +4091,9 @@
     "title": "De moord op Siegmar Flanuer 2015 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "siegmar-flanuer-2015-geen-sitedossier",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.401669,
@@ -3354,7 +4101,9 @@
     "title": "De moord op Esther Paul 2017 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "esther-paul-2017-geen-sitedossier",
-    "geoPlace": "Dronten"
+    "geoPlace": "Dronten",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.436253,
@@ -3362,7 +4111,9 @@
     "title": "De moord op Johan van Boxtel 2017 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "johan-van-boxtel-2017-geen-sitedossier",
-    "geoPlace": "Eindhoven"
+    "geoPlace": "Eindhoven",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.494453,
@@ -3370,7 +4121,9 @@
     "title": "De moord op Dennis Struijk 2017 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "dennis-struijk-2017-geen-sitedossier",
-    "geoPlace": "Best"
+    "geoPlace": "Best",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.078975,
@@ -3378,7 +4131,9 @@
     "title": "De moord op Ahmad Mola Nissi 2017 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "ahmad-mola-nissi-2017-geen-sitedossier",
-    "geoPlace": "Den Haag"
+    "geoPlace": "Den Haag",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.182127,
@@ -3386,7 +4141,9 @@
     "title": "De moord op Samir Jabli 2014 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "samir-jabli-2014-geen-sitedossier",
-    "geoPlace": "Amersfoort"
+    "geoPlace": "Amersfoort",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.92378,
@@ -3395,7 +4152,9 @@
     "link": "https://www.coldcasezaken.nl/sidney-luten",
     "id": "sidney-lute",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/sidney-lute-verouderingsfoto-politie-nl_-high.jpg?enable-io=true&enable=upscale&crop=1.4847%3A1&width=800",
-    "geoPlace": "Den Oever"
+    "geoPlace": "Den Oever",
+    "category": "Vermissing",
+    "year": 2016
   },
   {
     "lat": 51.716409,
@@ -3403,7 +4162,9 @@
     "title": "De vermissing van Jules Clement 1984 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "jules-clement-1984-geen-sitedossier",
-    "geoPlace": "'s-Hertogenbosch"
+    "geoPlace": "'s-Hertogenbosch",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.58924,
@@ -3411,7 +4172,9 @@
     "title": "De vermissing van Wim van den Hurk 1989 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "wim-van-den-hurk-1989-geen-sitedossier",
-    "geoPlace": "Berkel-Enschot"
+    "geoPlace": "Berkel-Enschot",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.540508,
@@ -3419,7 +4182,9 @@
     "title": "De vermissing van Maarten Geurts 1990 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "maarten-geurts-1990-geen-sitedossier",
-    "geoPlace": "Roosendaal"
+    "geoPlace": "Roosendaal",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.95918,
@@ -3427,7 +4192,9 @@
     "title": "De vermissing van Kees Epker 1993 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "kees-epker-1993-geen-sitedossier",
-    "geoPlace": "Wageningen"
+    "geoPlace": "Wageningen",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 53.233852,
@@ -3435,7 +4202,9 @@
     "title": "De vermissing van Ineke Fleurke 1994 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "ineke-fleurke-1994-geen-sitedossier",
-    "geoPlace": "Groningen"
+    "geoPlace": "Groningen",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.8859,
@@ -3443,7 +4212,9 @@
     "title": "De vermissing van Gerard Hulscher 1998 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "gerard-hulscher-1998-geen-sitedossier",
-    "geoPlace": "Rotterdam"
+    "geoPlace": "Rotterdam",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.001777,
@@ -3451,7 +4222,9 @@
     "title": "De vermissing van Jan Nebbeling 2000 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "jan-nebbeling-2000-geen-sitedossier",
-    "geoPlace": "Sittard"
+    "geoPlace": "Sittard",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.301083,
@@ -3459,7 +4232,9 @@
     "title": "De vermissing van Yvonne Catsburg2003 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "yvonne-catsburg2003-geen-sitedossier",
-    "geoPlace": "Hoofddorp"
+    "geoPlace": "Hoofddorp",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.651201,
@@ -3467,7 +4242,9 @@
     "title": "De vermissing van John Heijboer 2005 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "john-heijboer-2005-geen-sitedossier",
-    "geoPlace": "Oosterhout"
+    "geoPlace": "Oosterhout",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.962183,
@@ -3475,7 +4252,9 @@
     "title": "De vermissing van Remco van der Torre 2008 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "remco-van-der-torre-2008-geen-sitedossier",
-    "geoPlace": "Rotterdam"
+    "geoPlace": "Rotterdam",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 53.273395,
@@ -3483,7 +4262,9 @@
     "title": "De vermissing van Michael de Vrieze 2010 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "michael-de-vrieze-2010-geen-sitedossier",
-    "geoPlace": "Burum"
+    "geoPlace": "Burum",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.327865,
@@ -3491,7 +4272,9 @@
     "title": "De vermissing van Roel van Otten 2010 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "roel-van-otten-2010-geen-sitedossier",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.072173,
@@ -3499,7 +4282,9 @@
     "title": "De vermissing van Hugo Charles 2012 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "hugo-charles-2012-geen-sitedossier",
-    "geoPlace": "Utrecht"
+    "geoPlace": "Utrecht",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.528837,
@@ -3507,7 +4292,9 @@
     "title": "De vermissing van Zoryana Tupis 2013 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "zoryana-tupis-2013-geen-sitedossier",
-    "geoPlace": "Oostrum"
+    "geoPlace": "Oostrum",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.397187,
@@ -3515,7 +4302,9 @@
     "title": "De vermissing van Rachid Zaoudi 2013 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "rachid-zaoudi-2013-geen-sitedossier",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.328014,
@@ -3523,7 +4312,9 @@
     "title": "De vermissing van Henk Vierwind 2013 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "henk-vierwind-2013-geen-sitedossier",
-    "geoPlace": "Harderwijk"
+    "geoPlace": "Harderwijk",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.033671,
@@ -3531,7 +4322,9 @@
     "title": "De vermissing van Mieke Kuijpers 2014 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "mieke-kuijpers-2014-geen-sitedossier",
-    "geoPlace": "Gent"
+    "geoPlace": "Gent",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.44619,
@@ -3539,7 +4332,9 @@
     "title": "De vermissing van Henry Pfaff 2015 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "henry-pfaff-2015-geen-sitedossier",
-    "geoPlace": "Eindhoven"
+    "geoPlace": "Eindhoven",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.982968,
@@ -3547,7 +4342,9 @@
     "title": "De vermissing van Hugo van Dijk 2015 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "hugo-van-dijk-2015-geen-sitedossier",
-    "geoPlace": "Assen"
+    "geoPlace": "Assen",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.30259,
@@ -3555,7 +4352,9 @@
     "title": "De vermissing van Sabrina Oosterbeek 2017 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "sabrina-oosterbeek-2017-geen-sitedossier",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.040068,
@@ -3563,7 +4362,9 @@
     "title": "De vermissing van Mohamed Anaya 2018 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "mohamed-anaya-2018-geen-sitedossier",
-    "geoPlace": "Rijswijk"
+    "geoPlace": "Rijswijk",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.253602,
@@ -3571,7 +4372,9 @@
     "title": "De vermissing van Frederik Pallesen 2019 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "frederik-pallesen-2019-geen-sitedossier",
-    "geoPlace": "Aalsmeer"
+    "geoPlace": "Aalsmeer",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.982111,
@@ -3580,7 +4383,9 @@
     "link": "https://www.coldcasezaken.nl/jakob-johan-de-bruijn",
     "id": "jakob-johan-de-bruijn",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/550900514_24201040139596785_418436105436203320_n-high.png?enable-io=true&enable=upscale&crop=0.7359%3A1&width=800",
-    "geoPlace": "Delft"
+    "geoPlace": "Delft",
+    "category": "Vermissing",
+    "year": 2022
   },
   {
     "lat": 51.82713,
@@ -3589,7 +4394,9 @@
     "link": "https://www.coldcasezaken.nl/yoran-krol",
     "id": "yoran-krol",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/politie2018imageset_genericlandscape-2-standard.jpg",
-    "geoPlace": "Sleeuwijk"
+    "geoPlace": "Sleeuwijk",
+    "category": "Vermissing",
+    "year": 2023
   },
   {
     "lat": 50.963108,
@@ -3598,7 +4405,9 @@
     "link": "https://www.coldcasezaken.nl/angelique-hendrix",
     "id": "angelique-hendrix",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/ff69454e-6f39-405b-add4-adef8ab8c901-standard.png",
-    "geoPlace": "Maasmechelen"
+    "geoPlace": "Maasmechelen",
+    "category": "Moord",
+    "year": 1990
   },
   {
     "lat": 51.568754,
@@ -3606,7 +4415,9 @@
     "title": "De moord op Annie van der Poel 2019",
     "link": "https://www.coldcasezaken.nl/annie-van-der-poel",
     "id": "annie-van-der-poel",
-    "geoPlace": "Oostkapelle"
+    "geoPlace": "Oostkapelle",
+    "category": "Moord",
+    "year": 2019
   },
   {
     "lat": 52.87801,
@@ -3614,7 +4425,9 @@
     "title": "De moord op Ronnie Spa 1994 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "ronnie-spa-1994-geen-sitedossier",
-    "geoPlace": "Echten"
+    "geoPlace": "Echten",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.364722,
@@ -3622,7 +4435,9 @@
     "title": "De moord op Virgil Schot 2003 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "virgil-schot-2003-geen-sitedossier",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 50.853387,
@@ -3631,7 +4446,9 @@
     "link": "https://www.coldcasezaken.nl/tanja-groen",
     "id": "tanja-groen",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-high-qju8ta.png?enable-io=true&enable=upscale&crop=1.2877%3A1%2Coffset-y27&width=800",
-    "geoPlace": "Maastricht"
+    "geoPlace": "Maastricht",
+    "category": "Vermissing",
+    "year": 1993
   },
   {
     "lat": 50.947374,
@@ -3640,7 +4457,9 @@
     "link": "https://www.coldcasezaken.nl/leon-reubzaet",
     "id": "leon-reubzaet",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/550900514_24201040139596785_418436105436203320_n-standard-1fgj8t.png",
-    "geoPlace": "Brunssum"
+    "geoPlace": "Brunssum",
+    "category": "Moord",
+    "year": 1987
   },
   {
     "lat": 51.375441,
@@ -3649,7 +4468,9 @@
     "link": "https://www.coldcasezaken.nl/rudy-van-der-hoeven",
     "id": "rudy-van-der-hoeven",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/image-high-3gyuh5.png?enable-io=true&enable=upscale&crop=0.822%3A1%2Coffset-y0&width=800",
-    "geoPlace": "Venlo"
+    "geoPlace": "Venlo",
+    "category": "Moord",
+    "year": 2006
   },
   {
     "lat": 52.448797,
@@ -3657,7 +4478,9 @@
     "title": "De vermissing van cheryl morriën 1986 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "cheryl-morrien-1986-geen-sitedossier",
-    "geoPlace": "IJmuiden"
+    "geoPlace": "IJmuiden",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.40302,
@@ -3665,7 +4488,9 @@
     "title": "De moord op W. Scholtemeijer 1997 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "w-scholtemeijer-1997-geen-sitedossier",
-    "geoPlace": "Haarlem"
+    "geoPlace": "Haarlem",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.545756,
@@ -3673,7 +4498,9 @@
     "title": "De vermissing van Marc Jaskulski 2024 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "marc-jaskulski-2024-geen-sitedossier",
-    "geoPlace": "Dronten"
+    "geoPlace": "Dronten",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.436388,
@@ -3681,7 +4508,9 @@
     "title": "De moord op William Caceres Marcano 2025 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "william-caceres-marcano-2025-geen-sitedossier",
-    "geoPlace": "Zaandam"
+    "geoPlace": "Zaandam",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.974088,
@@ -3689,7 +4518,9 @@
     "title": "De vermissing van Hendrik Jan van Houten 2003 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "hendrik-jan-van-houten-2003-geen-sitedossier",
-    "geoPlace": "Wageningen"
+    "geoPlace": "Wageningen",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.060852,
@@ -3697,7 +4528,9 @@
     "title": "De vermissing van Churisan Allen 2018 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "churisan-allen-2018-geen-sitedossier",
-    "geoPlace": "Utrecht"
+    "geoPlace": "Utrecht",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.034094,
@@ -3705,7 +4538,9 @@
     "title": "De vermissing van Mieke Kuijpers 2014 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "mieke-kuijpers-2014-geen-sitedossier-2",
-    "geoPlace": "Gent"
+    "geoPlace": "Gent",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.730242,
@@ -3713,7 +4548,9 @@
     "title": "De vermissing van Jan en Riet Kelders 1989 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "jan-en-riet-kelders-1989-geen-sitedossier",
-    "geoPlace": "Cuijk"
+    "geoPlace": "Cuijk",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 53.202554,
@@ -3721,7 +4558,9 @@
     "title": "De moord op Annet van Akkeren 1982 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "annet-van-akkeren-1982-geen-sitedossier",
-    "geoPlace": "Groningen"
+    "geoPlace": "Groningen",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.154197,
@@ -3730,7 +4569,9 @@
     "link": "https://www.coldcasezaken.nl/irene-bernet",
     "id": "irene-bernet",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/screenshot-2026-01-21-alle-10-39-13-high.png?enable-io=true&enable=upscale&crop=0.7759%3A1&width=800",
-    "geoPlace": "Kockengen"
+    "geoPlace": "Kockengen",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.948614,
@@ -3738,7 +4579,9 @@
     "title": "De moord op Rinie Wielheesen 1970 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "rinie-wielheesen-1970-geen-sitedossier",
-    "geoPlace": "Doetinchem"
+    "geoPlace": "Doetinchem",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.468731,
@@ -3747,7 +4590,9 @@
     "link": "https://www.coldcasezaken.nl/frans-olthof",
     "id": "de-vermissing-frans-olthof",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/91c7b4d0b1243b8d5c1447510ddf7e552ba96321-high-j6c6ee.png?enable-io=true&enable=upscale&crop=0.6789%3A1&width=800",
-    "geoPlace": "Langeveen"
+    "geoPlace": "Langeveen",
+    "category": "Vermissing",
+    "year": 1995
   },
   {
     "lat": 52.036506,
@@ -3755,7 +4600,9 @@
     "title": "De moord op Ewoud Siegers 2014 (geen sitedossier)",
     "link": "https://www.coldcasezaken.nl/zaak-zonder-dossier",
     "id": "ewoud-siegers-2014-geen-sitedossier",
-    "geoPlace": "Gouda"
+    "geoPlace": "Gouda",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 51.083053,
@@ -3764,7 +4611,9 @@
     "link": "https://www.coldcasezaken.nl/lodewijk-louis-genbrugge",
     "id": "lodewijk-genbrugge",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/louis-genbrugge-enhanced-standard.jpg",
-    "geoPlace": "Hamme"
+    "geoPlace": "Hamme",
+    "category": "Moord",
+    "year": 1994
   },
   {
     "lat": 52.372612,
@@ -3773,7 +4622,9 @@
     "link": "https://www.coldcasezaken.nl/geert-gernand",
     "id": "geert-jacobus-gernand",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/chatgpt-image-5-aug-2026-19_39_42-high.png?enable-io=true&enable=upscale&crop=0.741%3A1%2Coffset-y61&width=800",
-    "geoPlace": "Amsterdam"
+    "geoPlace": "Amsterdam",
+    "category": "Moord",
+    "year": 1984
   },
   {
     "lat": 52.227394,
@@ -3782,7 +4633,9 @@
     "link": "https://www.coldcasezaken.nl/marcel-putman",
     "id": "de-vermissing-marcel-putman",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/putman-high.png?enable-io=true&enable=upscale&crop=0.8148%3A1&width=800",
-    "geoPlace": "Hilversum"
+    "geoPlace": "Hilversum",
+    "category": "Vermissing",
+    "year": 2001
   },
   {
     "lat": 51.580503,
@@ -3791,7 +4644,8 @@
     "link": "https://www.coldcasezaken.nl/corne-baelemans",
     "id": "corne-baelmans",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/asasasas-high.png?enable-io=true&enable=upscale&crop=0.8245%3A1&width=800",
-    "geoPlace": "Breda"
+    "geoPlace": "Breda",
+    "category": "Nog controleren"
   },
   {
     "lat": 51.904221,
@@ -3800,7 +4654,9 @@
     "link": "https://www.coldcasezaken.nl/onbekende-baby-rijnhaven",
     "id": "onbekend-babylijkje-3",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/asasassaas-high-zj55j8.png?enable-io=true&enable=upscale&crop=1.1859%3A1%2Coffset-y62&width=800",
-    "geoPlace": "Rotterdam"
+    "geoPlace": "Rotterdam",
+    "category": "Onbekende doden",
+    "year": 1996
   },
   {
     "lat": 52.463269,
@@ -3809,7 +4665,8 @@
     "link": "https://www.coldcasezaken.nl/john-yellowley",
     "id": "john-yellowley",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/asasasas-standard-eeol96.png",
-    "geoPlace": "IJmuiden"
+    "geoPlace": "IJmuiden",
+    "category": "Nog controleren"
   },
   {
     "lat": 51.874584,
@@ -3818,6 +4675,7 @@
     "link": "https://www.coldcasezaken.nl/monika-tanova",
     "image": "https://primary.jwwb.nl/public/t/l/i/temp-bqjoudxtrdpcquxbogqx/saz-high.png",
     "id": "monika-tanova",
-    "geoPlace": "Rotterdam"
+    "geoPlace": "Rotterdam",
+    "category": "Nog controleren"
   }
 ]
